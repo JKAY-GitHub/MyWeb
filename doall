@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/Dropbox/MyWeb
+cd ~/Dropbox/JudyWeb/MyWeb
 echo "git status:"
 git status
 echo -n "ok to pull? [ctrl-C for no]";read x
@@ -14,9 +14,9 @@ fi
 echo -n "ok to push? [ctrl-C for no]";read x
 git push
 echo "Running Hugo..."
-hugo -d ~/Dropbox/JKAY-GitHub.github.io
+hugo -d ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
 
-cd ~/Dropbox/JKAY-GitHub.github.io 
+cd ~/Dropbox/JudyWeb/JKAY-GitHub.github.io 
 echo "Changing to JKAY-GitHub.github.io and running git pull"
 git pull
 echo -n "ok to commit? [ctrl-C for no]";read x
