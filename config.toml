@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = ""
-copyright = "&copy; 2017 Your Name"
+copyright = "&copy; 2018 Judy Kay"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -257,9 +257,15 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "Students"
+  url = "#students"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
+
 
 # Taxonomies.
 [taxonomies]
