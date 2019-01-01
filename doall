@@ -13,6 +13,7 @@ else
 fi
 echo -n "ok to push? [ctrl-C for no]";read x
 git push
+cp -R pdf ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
 echo "Running Hugo..."
 hugo -d ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
 
