@@ -15,4 +15,4 @@ weight = 25
 
 +++
 
-A full list of my publications can be found [here](http://bobkummerfeld.github.io/bob-pubs.html).
+A full list of my publications can be found [here](http://jkay-github.github.io/judy-pubs.html).
