@@ -14,10 +14,10 @@ fi
 echo -n "ok to push? [ctrl-C for no]";read x
 git push
 echo "Running Hugo..."
-hugo -d ~/Dropbox/bobkummerfeld.github.io
+hugo -d ~/Dropbox/JKAY-GitHub.github.io
 
-cd ~/Dropbox/bobkummerfeld.github.io 
-echo "Changing to bobkummerfeld.github.io and running git pull"
+cd ~/Dropbox/JKAY-GitHub.github.io 
+echo "Changing to JKAY-GitHub.github.io and running git pull"
 git pull
 echo -n "ok to commit? [ctrl-C for no]";read x
 if [ x"$1" != x ]
