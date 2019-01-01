@@ -1,0 +1,26 @@
+
+edit the content
+
+run "hugo -d ~/Dropbox/bobkummerfeld.github.io" in top level
+
+in directory ~/Dropbox/bobkummerfeld.github.io do the following:
+
+git pull
+git commit -a
+git push
+
+
+---------------------------------
+
+The script "doall" does those steps with confirmation at each step.
+
+
+---------------------------------
+Notes:
+to get the password helper:
+  git credential-osxkeychain
+
+to use the password helper:
+  git config --global credential.helper osxkeychain
+
+
