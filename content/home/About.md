@@ -25,25 +25,23 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Sydney"
-  year = 1979
+  year = 1999
 
 [[education.courses]]
-  course = "BSc in Computer Science (Hons I) "
+  course = "BSc in Computer Science"
   institution = "University of Sydney"
-  year = 1973
+  year = 1974
 
 +++
 
 # 
 
-I am an Affiliate Professor in the School of Computer Science, University of Sydney. 
-I am a member of the Human Centred Technology (HCT) Group led by Professor Judy Kay. 
-I have interests in pervasive and context aware systems, message delivery systems, 
-customisation/personalisation using user models and related areas.
+I lead the Human Centred Technology Research Cluster. This highly multi-disciplinary group is a priority research area for the Faculty of Engineering and IT.
 
-I am particularly interested in Simple Systems – novel interfaces that are easy to use yet efficient and effective.
+My primary research and teaching is in human computer interaction (HCI) and ranges from creating new technology to studies to inform its design and learn about its use.
 
-“Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse, complexity sells better.” Edsger W. Dijkstra
+My research group, CHAI: Computer Human Adapted Interaction Research Group works on personalisation, particularly for life-long, life-wide learning and novel interfaces. 
+Our surface computing work makes tabletops and walls interactive, such as the Sydney University MediaWall. 
+Our spin-off company, Cruiser Interactive has deployed the technology at diverse sites such as Alzheimer's Australia, Mondelez, Victoria Police,Colliers and in Education.
 
-“Any darn fool can make something more Complex. It takes a genius to make something simple.” Pete Seeger
-
+This page complements my formal home page as a highly dynamic resource for my students and colleagues. Enjoy!
