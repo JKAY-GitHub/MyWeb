@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Human-Computer Interaction",
     "Transparency and user control",
-    "AI in Education"
+    "AI in Education",
+    "Health Informatics"
   ]
 
 # Affiliations
