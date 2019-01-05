@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "Kay2018_IMWUT_adherence.png"
+# image = "Kay2018_IMWUT_adherence.png"
 caption = "Illustrating the impact of different adherence measures on 12 datasets"
 
 +++

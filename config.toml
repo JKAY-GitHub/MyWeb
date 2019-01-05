@@ -46,12 +46,12 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Sydney", url = "" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-#  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+#  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Judy.Kay@gmail.com"
-  address = "School of Computer Science, University of Sydney, NSW 2006, Australia"
+  address = "Room 307, School of IT Building, J12, School of Computer Science, University of Sydney, NSW 2006, Australia"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  phone = "+61-2-9351-4502"
   #skype = "echo123"
   #telegram = ""
 
@@ -254,6 +254,11 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 # I also have a file called talks.md
+[[menu.main]]
+  name = "Editorial"
+  url = "#editorial"
+  weight = 5
+
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
