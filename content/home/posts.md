@@ -9,7 +9,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 15
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -22,3 +22,17 @@ count = 5
 
 +++
 
+* Nov 2018: [2018 ACM Distinguished Members Recognized for Contributions that Have Revolutionized How We Live, Work and Play]
+(https://www.acm.org/media-center/2018/november/distinguished-members-2018)
+
+* 2018: [Cruiser Interactive moves to Barangaroo]
+(https://www.cruiserinteractive.com.au/)
+
+* Sep 2017: [Harnessing long term personal data] 
+(https://sydney.edu.au/news-opinion/news/2017/09/27/harnessing-long-term-data-key-to-meeting-fitness-goals.html)
+
+* May, 2017: [Virtual Reality games - for fun and fitness]
+(https://www.gizmodo.com.au/2017/05/australian-scientists-declare-virtual-reality-is-officially-considered-exercise/)
+
+* Australian Broadcasting Commission Re-release of video [The World Wide Web Explained (1996)]
+(https://www.youtube.com/watch?v=tnB_Niw91Vc)

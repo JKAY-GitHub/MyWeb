@@ -24,5 +24,5 @@ Current research students:
 - Alan Yung - _Exploring support for oncologists with the data that drives decisions in diagnosis and treatments_
 
 
-A full list of past students can be found [here]({{< ref "students-all.md" >}})
+A full list of past students can be found [here]({{< ref "/students-all.md" >}})
 

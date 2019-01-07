@@ -38,10 +38,37 @@ weight = 5
 
 # 
 
-I lead the multi-disciplinary Human Centred Technology Research Cluster at the University of Sydney, Australia. 
+I lead the multi-disciplinary 
+[Human Centred Technology Research Cluster]
+(https://sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/human-centred-technology.html)
+at the University of Sydney, Australia. 
+I am in University of Sydney Charles Perkins Centre Nodes on
+[Active Ageing]
+(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/active-ageing.html),
+[BABY1000 Study]
+(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/nutrition/baby1000.html),
+[Health literacy chronic disease network]
+(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/aboriginal-and-torres-strait-islander-health/health-literacy-chronic-disease-network.html) and
+[Wireless wellbeing and personalised health]
+(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/wireless-wellbeing-and-personalised-health.html).
+Advanced Technology for Education groups:
+[Sciences and Technologies of Learning]
+(https://sydney.edu.au/research/stl/),
+[Centre for Research on Learning and Innovation]
+(https://sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-research-on-learning-and-innovation.html).
 
-My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). She leads the Human Centred Technology Research Cluster, a large multi-disciplinary group at the University of Sydney. A core focus of her research it to create system that harness personal data for personalisation with user control, based on creating systems and interfaces to enable people to scrutinize their own user model and the personalisation processes based on it. In AIED, this is called Open Learner Modelling, now linking with learning analytics. In Ubicomp, her work has explored the ways to create infrastructures, as well as interfaces, that enable people to control the management of evidence used to reason about them.  Her research has resulted in deployed human-centred technology, making research contributions in interface design, user experience, machine learning and data mining, and infrastructures for personal data management to ensure privacy and user control. 
+My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and 
+Human Computer Interaction (HCI). 
+A core focus of my research is to create system that harness personal data for personalisation with user control. 
+This means creating systems and interfaces that enable people to scrutinize their own 
+user model and the personalisation processes based on it. 
+In AIED, this is called Open Learner Modelling, now linking with learning analytics. 
+In Ubicomp, my research has created infrastructures, as well as interfaces, 
+that enable people to control the management of data used to reason about them.  
+My research has resulted in deployed human-centred technology, 
+making research contributions in interface design, user experience, 
+machine learning and data mining, and infrastructures for personal data management to ensure privacy and user control. 
 
-This page complements my 
-<a class="non" href="http://sydney.edu.au/engineering/people/judy.kay.php">&nbsp;formal home page&nbsp;</a>
-as a highly dynamic resource for my students and colleagues. Enjoy!
+This page complements my
+[formal home page] 
+(http://sydney.edu.au/engineering/people/judy.kay.php).
