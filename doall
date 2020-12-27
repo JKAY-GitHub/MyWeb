@@ -11,11 +11,11 @@ then
 else
 	git commit -a
 fi
-echo -n "ok to push? [ctrl-C for no]";read x
-git push
+# echo -n "ok to push? [ctrl-C for no]";read x
+# git push
 cp -R pdf ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
 echo "Running Hugo..."
-hugo -d ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
+../hugo -d ~/Dropbox/JudyWeb/JKAY-GitHub.github.io
 
 cd ~/Dropbox/JudyWeb/JKAY-GitHub.github.io 
 echo "Changing to JKAY-GitHub.github.io and running git pull"
