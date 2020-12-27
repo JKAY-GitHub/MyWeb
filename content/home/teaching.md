@@ -11,13 +11,19 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 50
 
 +++
 
-My 2019 teaching at at University of Sydney:
+My current teaching at at University of Sydney:
 
-- DATA3506 - Human-in-the-loop data analytics (New in 2019)
-- COMP5427 - Usability Engineering | <a class="non" href="https://cusp.sydney.edu.au/students/view-unit-page/alpha/COMP5427">CUSP</a>
-- COMP5047 - Pervasive Computing | <a class="non" href="https://cusp.sydney.edu.au/students/view-unit-page/alpha/COMP5047">CUSP</a>
+- DATA3506 - Human-in-the-loop data analytics |
+[Syllabus] 
+(https://www.sydney.edu.au/units/DATA3406)
+
+- COMP5427 - Usability Engineering | 
+[Syllabus] 
+(https://www.sydney.edu.au/units/COMP5427)
+
+
 

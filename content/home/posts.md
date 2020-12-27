@@ -9,7 +9,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 20
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -22,7 +22,13 @@ count = 5
 
 +++
 
-* Nov 2018: [2018 ACM Distinguished Members Recognized for Contributions that Have Revolutionized How We Live, Work and Play]
+* TODO - newer stuff
+
+* Jan 2019: 
+[What happens when technology has a human face? | Mike Seymour | TEDxSydneySalon)
+(https://www.youtube.com/watch?time_continue=1&v=FPm3ZDKnS6A)
+
+* Nov 2018: [2018 ACM Distinguished Member, For Outstanding Scientific Contributions to Computing]
 (https://www.acm.org/media-center/2018/november/distinguished-members-2018)
 
 * 2018: [Cruiser Interactive moves to Barangaroo]

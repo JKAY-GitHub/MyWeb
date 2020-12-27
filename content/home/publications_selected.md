@@ -6,11 +6,11 @@ widget = "publications_selected"
 active = true
 date = 2019-01-06
 
-title = "Selected Publications"
+title = "Selected recent Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # List format.
 #   0 = Simple

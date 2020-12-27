@@ -1,9 +1,9 @@
 
 edit the content
 
-run "hugo -d ~/Dropbox/bobkummerfeld.github.io" in top level
+run "hugo -d ~/Dropbox/JKAY-GitHub.github.io" in top level
 
-in directory ~/Dropbox/bobkummerfeld.github.io do the following:
+in directory ~/Dropbox/JKAY-GitHub.github.io do the following:
 
 git pull
 git commit -a

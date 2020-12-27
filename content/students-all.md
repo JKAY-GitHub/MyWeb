@@ -1,6 +1,6 @@
 
 +++
-title = "Students"
+title = "Alumni"
 date = 2018-02-22T14:57:11+11:00
 draft = false
 
@@ -23,8 +23,25 @@ preview = true
 
 ## Past PhD Students
 
+* Mike Seymour (2020)
+[To Affinity and Beyond: Interactive Digital Humans as a Human Computer Interface]
+(https://ses.library.usyd.edu.au/handle/2123/21613)
+
+* Soojeung Yoo (2019)
+[Modelling Physical Activity in Virtual Reality Games]
+(https://ses.library.usyd.edu.au/handle/2123/21742#)
+
+* Lie Ming Tang (2019)
+[Making Sense of Long-Term Physical Activity Tracker Data: The challenge of Incompleteness]
+(https://ses.library.usyd.edu.au/handle/2123/20996)
+
+* Callum Parker (2018)
+[Augmenting Space: Design approaches for making public interactive displays relevant in hyperconnected societies]
+(https://ses.library.usyd.edu.au/handle/2123/18993)
+
 * Farahnaz Yekeh (2018):
-Lifelong scrutable user models for personal hypothesis testing 
+[Lifelong scrutable user models for personal hypothesis testing]
+(https://ses.library.usyd.edu.au/handle/2123/18651)
 
 * Christopher Ackad (2016):
 [Towards Gesture Based Exploration of an Information Space on a Large-Screen Public Display]
@@ -32,13 +49,16 @@ Lifelong scrutable user models for personal hypothesis testing
 
 
 * Debjanee Barua (2016): 
-A time to remember, a time to forget: User controlled, Scalable, Life long user modelling. 
+[A time to remember, a time to forget: User controlled, Scalable, Life long user modelling.]
+(https://ses.library.usyd.edu.au/handle/2123/15546)
 
 * Andrew Clayphan (2016):
-Harnessing the affordances of interactive tabletops for collaborative activities
+[Harnessing the affordances of interactive tabletops for collaborative activities]
+(https://ses.library.usyd.edu.au/handle/2123/15290)
 
-* Roberto Martinez (2014):
-Analysing, visualising and supporting collaborative learning using interactive tabletops 
+* Roberto Martinez Maldonado (2014):
+[Analysing, visualising and supporting collaborative learning using interactive tabletops]
+(https://ses.library.usyd.edu.au/handle/2123/10409)
 
 * Richard Gluga (2013):
 Foundations for modelling long-term learning and progression in higher education 
@@ -50,7 +70,8 @@ New dimensions of file access at tabletops: associative and hierarchical; privat
 Active Models for Pervasive Computing. (Associate, with Bob Kummerfeld supervisor)
 
 * Trent Apted (2009): 
-Cruiser and PhoTable: Exploring Tabletop User Interface Software for Digital Photograph Sharing and Story Capture 
+[Cruiser and PhoTable: Exploring Tabletop User Interface Software for Digital Photograph Sharing and Story Capture]
+(https://ses.library.usyd.edu.au/handle/2123/4207)
 
 * William Niu (2009):
 Ontological Reasoning About Location for Indoor Pervasive Computing Environments
@@ -87,17 +108,30 @@ Ego: an expandable goal oriented tutoring system.
 
 
 
-## Past Masters by Research Students
+## Masters by Research Students
+
+* Melanie Bonnaudet (2020), KTH Royal Institute of technology (Kjetil Falkenberg, KTH supervisor)
+[A usability evaluation of TRIO’s e- learning modules enhancing the communication between cancer patients, clinicians and carers]
+(https://www.dropbox.com/s/odjx8gyelcikwe8/2020_Melanie_Bonnaudet.pdf?dl=0)
 
 * Ronny Cook (2017):
-MOOClm: Learner Modelling for MOOCs (co-supervisor Associate Professor Robert Kummerfeld) 
+[MOOClm: Learner Modelling for MOOCs](https://ses.library.usyd.edu.au/handle/2123/17023)
+(co-supervisor Associate Professor Robert Kummerfeld) 
 
 * Jeremy Pu (2008): Scrutable personalisation of web portals SAPS 
-* Lichao Li (2008): A Reflective Learning Framework for Programming. 
+* Lichao Li (2008): 
+[A Reflective Learning Framework for Programming.]
+(https://www.dropbox.com/s/ol67qer5v4bj5wm/2008_Lichao_Li.doc?dl=0)
+
+* Carolin Plate (2007), University of Osnabrück,
+[Mobile Navigation in Ubiquitous Environments - Comparing Affect and Effectiveness of Linguistic and Cartographic Communication]
+(https://www.dropbox.com/s/08pma9id219c02b/2007_Plate.pdf?dl=0)
+
 * Noroja Parandeh-Ghebi (2000) Evaluation of a viewable user model in an authentic field study of teaching a text editor. 
 
 ## Past Honours Students and Coursework Master's students
 
+* Juan Manuel Cutrera (2019) Subject advisor - finding the right electives
 * Ken Koh (2016) - Personalised Augmented Reality interfaces
 * Elliot Diebold (2015) ARdapter: A system for real-time adaptation of user interfaces based on user performance. 
 * Joseph Shen Wang (2015) Optimising Augmented Reality Interfaces to Enhance Visual Search and Target Selection 

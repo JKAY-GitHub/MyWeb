@@ -10,9 +10,15 @@ date = "2018-12-10T00:00:00"
 title = "Full Publication List"
 subtitle = ""
 
+# - add this later
+#A full list of my publications can be found [here](http://jkay-github.github.io/judy-pubs.html).
+
 # Order that this section will appear in.
-weight = 25
+weight = 11
 
 +++
 
-A full list of my publications can be found [here](http://jkay-github.github.io/judy-pubs.html).
+For a full list of my publications, see 
+[Google scholar](https://scholar.google.com.au/citations?hl=en&user=4lr4HzgAAAAJ&view_op=list_works)
+and
+[dblp](https://dblp.org/pid/88/635.html).
