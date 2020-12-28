@@ -4,6 +4,8 @@ echo "git status:"
 git status
 echo -n "ok to pull? [ctrl-C for no]";read x
 git pull
+echo "Adding everything, to get new files..."
+git add .
 echo -n "ok to commit? [ctrl-C for no]";read x
 if [ x"$1" != x ]
 then
@@ -20,6 +22,8 @@ echo "Running Hugo..."
 cd ~/Dropbox/JudyWeb/JKAY-GitHub.github.io 
 echo "Changing to JKAY-GitHub.github.io and running git pull"
 git pull
+echo "Adding everything, to get new files..."
+git add .
 echo -n "ok to commit? [ctrl-C for no]";read x
 if [ x"$1" != x ]
 then

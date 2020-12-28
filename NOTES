@@ -1,0 +1,7 @@
+
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "software/1ec-parsing.jpeg"
+
+
+
