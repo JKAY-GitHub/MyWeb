@@ -25,5 +25,30 @@ My current teaching at at University of Sydney:
 [Syllabus] 
 (https://www.sydney.edu.au/units/COMP5427)
 
+Resources from previous teaching:
 
+- Problem Based Learning (PBL) for First Year Programming. 
+Over several years, we refined this valuable way to teach first programming with a very broad problem-based perspective. 
+We trialled the approach and compared matched populations. If you are considering this approach you may find the resources below useful.
+
+The main paper: Kay, J., Barg, M., Fekete, A., Greening, T., Hollands, O., Kingston, J. H., & Crawford, K. (2000). Problem-based learning for foundation computer science courses. Computer Science Education, 10(2), 109-128. 
+[DOI](https://doi.org/10.1076/0899-3408(200008)10:2;1-C;FT109) |
+[Tech Report](https://www.dropbox.com/s/r5p0if59wvlmqxv/tr_cse_pbl99.pdf?dl=0) 
+
+Student resources:
+[80 page student resources](https://www.dropbox.com/s/1c1773u9srnyubw/99_student_resource.pdf?dl=0) 
+
+Tutor scripts week by week: 
+[01](https://www.dropbox.com/s/6m0pc1if1kvk9ie/01_class.pdf?dl=0) |
+[02](https://www.dropbox.com/s/g65rq2ax9xg10gn/02_class.pdf?dl=0) |
+[03](https://www.dropbox.com/s/ta1cw3dkce47cui/03_class.pdf?dl=0) |
+[04](https://www.dropbox.com/s/ror43igzk1rlkub/04_class.pdf?dl=0) |
+[05](https://www.dropbox.com/s/rvd1g1d2yddwfar/05_class.pdf?dl=0) |
+[06](https://www.dropbox.com/s/2zej98cpb2ggt8r/06_class.pdf?dl=0) |
+[07](https://www.dropbox.com/s/61b9opc6o99cpxu/07_class.pdf?dl=0) |
+[08](https://www.dropbox.com/s/dn7f1f4691cpjde/08_class.pdf?dl=0) |
+[10](https://www.dropbox.com/s/tavlxqfnfzr2rpc/10_class.pdf?dl=0) |
+[11](https://www.dropbox.com/s/3moh3v75ujyy3sk/11_class.pdf?dl=0) |
+[12](https://www.dropbox.com/s/9ig1p21s71csr2z/12_class.pdf?dl=0) |
+[13](https://www.dropbox.com/s/y4ah5htdogxxuda/13_class.pdf?dl=0) 
 

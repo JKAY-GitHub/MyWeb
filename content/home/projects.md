@@ -35,7 +35,7 @@ filter_default = 0
 #   tag = "*"
 #  
 #[[filter]]
-#   name = "Personal Infoormatics"
+#   name = "Personal Informatics"
 #   tag = ".personal informatics"
 #
 # [[filter]]
@@ -54,4 +54,6 @@ My current projects are:
 
 - E-textbook of the future.
 
-- Simple ambient appliance computing to help people tackle long term personal goals for health and wellness.
+- Ambient appliances and personal sensors to help people tackle long term personal goals for health and wellness.
+
+- Online modules to support communication in oncology by the TRIO, clinician-patient-carer.
