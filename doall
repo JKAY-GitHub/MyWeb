@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ x$1 == x ]
+then
+	echo "usage: ./doall commit-comment"
+	exit
+fi
 cd ~/Dropbox/JudyWeb/MyWeb
 echo "git status:"
 git status
