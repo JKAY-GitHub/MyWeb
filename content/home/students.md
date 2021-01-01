@@ -13,7 +13,6 @@ subtitle = ""
 weight = 60
 
 +++
-
 Current research students:
 
 

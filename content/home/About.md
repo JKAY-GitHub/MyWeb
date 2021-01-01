@@ -44,16 +44,21 @@ I lead the multi-disciplinary
 at the University of Sydney, Australia. 
 
 
-My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and 
+My research is in the areas of 
+Artificial Intelligence in Education (AIED), 
+Ubiquitous Computing (Ubicomp) and 
 Human Computer Interaction (HCI). 
-A core focus of my work has been to create system that enable people to harness their personal data for lifelong and lide-wide learning.
-This means creating systems and interfaces that for user models so thay people can scrutinize their 
-model and its use.
-In AIED, this is called Open Learner Modelling; this makes OLMs a user view onto learning analytics data. 
-In Ubicomp, my research has created infrastructures, as well as interfaces, 
-that enable people to control and manage data used to reason about them.  My research has resulted in deployed human-centred technology, 
-making research contributions in interface design, user experience, 
-machine learning and data mining, and infrastructures for personal data management to ensure privacy and user control. 
+A core driver has been to create systems that enable people to harness 
+their personal data for lifelong and life-wide learning.
+My research creates systems and interfaces for *user models* that people can *scrutinise*,
+to really see, understand and control their personal data and its use.
+This is core to people managing privacy and use of their data.
+In learning contexts, interfaces onto learning data, Open Learner Models (OLM), 
+provide a new way for people to harness data to manage their learning.
+This is because it suppose *metacognitive processes* like self-monitoring, reflection and planning,
+closely related to *self-regulation* in lifelong learning for important areas of health and wellness.
+My research is based on rich collaborations with researchers in diverse areas,
+such as nutrition, physical activity, psychology, medical informatics and ehealth. 
 
 Within Sydney University, I belong to Charles Perkins Centre Nodes,
 [Active Ageing]
@@ -68,6 +73,6 @@ Advanced Technology for Education group
 [Centre for Research on Learning and Innovation]
 (https://sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-research-on-learning-and-innovation.html).
 
-This site complements my
+This site complements my University of Sydney
 [formal home page] 
 (http://sydney.edu.au/engineering/people/judy.kay.php).

@@ -14,7 +14,7 @@ subtitle = ""
 #A full list of my publications can be found [here](http://jkay-github.github.io/judy-pubs.html).
 
 # Order that this section will appear in.
-weight = 11
+weight = 9
 
 +++
 
