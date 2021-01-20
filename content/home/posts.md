@@ -40,8 +40,14 @@ count = 5
 * 14-18 Jun, 2021, Invited keynote at the [2021 conference on Artificial Intelligence in Education, AIED 2021](https://aied2021.science.uu.nl/), Utrecht/Virtual, Netherlands,
 Theme: Mind the Gap: AIED for Equity and Inclusion.
 
+
 * 14-19 Mar, 2021, Invited keynote at [ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’21)]
 (https://acm-chiir.github.io/chiir2021/)
+
+* 13-20 Mar, [2020 SIGCSE Technical Symposium](https://sigcse2021.sigcse.org/) 
+-- Alan Fekete, Judy Kay and Uwe Röhm will present
+[A Data-centric Computing Curriculum for a Data Science Major]
+(https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0)
 
 * 8-9 Feb, 2021, Invited speaker at [BIOTech Futures Challenge Virtual Symposium](https://biotechfutures.org/) for high school students, Topic: Human-centred AI for human health
 
