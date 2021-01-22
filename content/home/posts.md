@@ -43,6 +43,8 @@ Theme: Mind the Gap: AIED for Equity and Inclusion.
 
 * 14-19 Mar, 2021, Invited keynote at [ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’21)]
 (https://acm-chiir.github.io/chiir2021/)
+The Case for Scrutable, Personal, Long-Term User Models for Information Retrieval, [Abstract]
+(https://www.dropbox.com/s/xh3hfr7hmgyccol/2021_keynote_chiir01k-kayA.pdf?dl=0)
 
 * 13-20 Mar, [2020 SIGCSE Technical Symposium](https://sigcse2021.sigcse.org/) 
 -- Alan Fekete, Judy Kay and Uwe Röhm will present
