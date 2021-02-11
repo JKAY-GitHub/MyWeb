@@ -46,10 +46,13 @@ Theme: Mind the Gap: AIED for Equity and Inclusion.
 The Case for Scrutable, Personal, Long-Term User Models for Information Retrieval, [Abstract]
 (https://www.dropbox.com/s/xh3hfr7hmgyccol/2021_keynote_chiir01k-kayA.pdf?dl=0)
 
-* 13-20 Mar, [2020 SIGCSE Technical Symposium](https://sigcse2021.sigcse.org/) 
+* 13-20 Mar, [2021 SIGCSE Technical Symposium](https://sigcse2021.sigcse.org/) 
 -- Alan Fekete, Judy Kay and Uwe Röhm will present
 [A Data-centric Computing Curriculum for a Data Science Major]
 (https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0)
+
+* 4 Mar, 2021, Sarah Howard, Simon Buckingham Shum, Judy Kay [ACS Panel discussion: How AI transforms the learning experience]
+(https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001wnJV)
 
 * 8-9 Feb, 2021, Invited speaker at [BIOTech Futures Challenge Virtual Symposium](https://biotechfutures.org/) for high school students, Topic: Human-centred AI for human health
 
