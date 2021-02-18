@@ -25,6 +25,10 @@ My current teaching at at University of Sydney:
 [Syllabus] 
 (https://www.sydney.edu.au/units/COMP5427)
 
+- INFO4994/5995 - Advanced Topics in Computer Science |
+[Syllabus]
+(https://www.sydney.edu.au/units/INFO4994/2021-S1C-SU-RE)
+
 Resources from previous teaching:
 
 - Problem Based Learning (PBL) for First Year Programming. 
