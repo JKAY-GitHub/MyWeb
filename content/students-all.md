@@ -83,7 +83,7 @@ Myplace: supporting scrutability and user control in location modelling
 SATS, Scrutably Adaptive Teaching Strategies for flexible teaching from existing documents
 
 * Andrew Lum (2007): 
-Light-weight Ontologies for Scrutable User Modelling. 
+[Light-weight Ontologies for Scrutable User Modelling.](https://www.dropbox.com/s/f1s76hxewh7i6bi/2007_Andrew_Lum_thesis.pdf?dl=0)
 
 * Marek Czarkowski (2006)
 [Scrutable adaptive hypertext.]
