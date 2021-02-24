@@ -86,7 +86,8 @@ SATS, Scrutably Adaptive Teaching Strategies for flexible teaching from existing
 Light-weight Ontologies for Scrutable User Modelling. 
 
 * Marek Czarkowski (2006)
-Scrutable adaptive hypertext. 
+[Scrutable adaptive hypertext.]
+(https://ses.library.usyd.edu.au/handle/2123/10206)
 
 * Doug Chesher (2005)
 Exploring the use of web-based virtual patient to support learning through reflection.
@@ -131,20 +132,23 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Lichen Xue (2019) [UpRight: How to harness the lockscreen of mobile phone to improve the posture while using phone](https://www.dropbox.com/s/kaqsmp325uufkyy/2018_Lichen_Yue_lock_screen_Thesis.pdf?dl=0)
 * Juan Manuel Cutrera (2019) Subject advisor - finding the right electives
+* Colin Cai (2018) [Data mining authentic, mobile food journals and socio-environmental data](https://www.dropbox.com/s/7h2vahuo7c6g6wj/2018_Colin%20Cai.pdf?dl=0)
 * Ken Koh (2016) - Personalised Augmented Reality interfaces
-* Elliot Diebold (2015) ARdapter: A system for real-time adaptation of user interfaces based on user performance. 
-* Joseph Shen Wang (2015) Optimising Augmented Reality Interfaces to Enhance Visual Search and Target Selection 
-* Nebojsa Zelenovic (2015) Blending Digital Content into the Environment in Augmented Reality See-Through Head Mounted Displays
-* Petra Kovacevic (2013) Scripted collaboration for knowledge creation 
+* kartik Gupta (2016) Exploring Gamification Designs in Mobile Food Diary for Vegetables
+* Elliot Diebold (2015) [ARdapter: A system for real-time adaptation of user interfaces based on user performance.](https://www.dropbox.com/s/17kwy28ieijsyg2/2015_Diebold.pdf?dl=0) 
+* Joseph Shen Wang (2015) [Optimising Augmented Reality Interfaces to Enhance Visual Search and Target Selection.](https://www.dropbox.com/s/4k3zpdjqpg1dx4y/2015_Wang.pdf?dl=0)
+* Nebojsa Zelenovic (2015) [Blending Digital Content into the Environment in Augmented Reality See-Through Head Mounted Displays](https://www.dropbox.com/s/cub2znn7l75me9x/2015_Zelenovic.pdf?dl=0)
+* Petra Kovacevic (2013) [Scripted collaboration for knowledge creation](https://www.dropbox.com/s/iyrieso1qefr7zz/2013_Kovacevic.pdf?dl=0)
 * Henry Li (2013) Exploring information spaces on tabletops and interactive wall displays 
-* Jonathan Tywble (2013) Personal CRM exomem 
+* Jonathan Tywble (2013) [Personal CRM exomem](https://www.dropbox.com/s/3hr9bdk2r6d1qtv/2013_twyble.pdf?dl=0)
 * Anthony Simonetta (2012) A Framework for User Controlled Knowledge Modelling of Mobile Information Delivery (About Wellness)
 * Peter Ward (2012) Providing Useful Feedback to Beginner Programmers (joint with James Curran)
 * Stephane Boustani (2010) Designing touch-based interfaces for the elderly 
 * Aaron Cowie (2010) Collaborative Concept Mapping at an Interactive Tabletop 
 * Joseph Michaels (2010) Personalised GeoNotes 
-* Kurt Gubi (2010) RoughMaps: Indoor Positioning using Existing Infrastructure and Symbolic Maps 
+* Kurt Gubi (2010) [RoughMaps: Indoor Positioning using Existing Infrastructure and Symbolic Maps](https://www.dropbox.com/s/6f41f82ywn40gk0/2010_Gubi.pdf?dl=0)
 * Alexander Stevenson (2010) Organisation and Exportation of Media between Tabletop and External Storage Devices 
 * Cat Stewart (Hons I 2010) — Multipage documents at tabletops
 * Chris Ackad (Hons I 2009) Moving Beyond Appliance Computing on Tabletop Systems
@@ -155,8 +159,8 @@ Ego: an expandable goal oriented tutoring system.
 * Sam Thorogood (Honours I 2008) Family: Documents, files, nodes and relationships
 * Kimberley Upton (Honours I 2007) Narcissus: an Interactive Visualisation for Mirroring the Activities of Small Groups
 * Carolin Plate (Pruefungsamt Master's Thesis Cognitive Science 2007) Mobile Navigation in Ubiquitous Environments - Comparing Affect and Effectiveness of Linguistic and Cartographic Communication. External supervisor, with Prof Kai-Christoph Hamborg, University of Osnabrueck.
-* Anthony Collins (Honours I 2006) Exploring tabletop file system interaction 
-* Mark Hingston (Honours I 2006) User friendly recommender systems 
+* Anthony Collins (Honours I 2006) [Exploring tabletop file system interaction](https://www.dropbox.com/s/212vr9etizdi58h/2006_Anthony_Collins.pdf?dl=0)
+* Mark Hingston (Honours I 2006) [User friendly recommender systems](https://www.dropbox.com/s/7g7mq9oo5bkhvi3/2006_Hingston.pdf?dl=0)
 * Glen Whitaker (Honours I 2006) Collaborative image-based tagging and interactive mapping on tabletops 
 * Patrick Burns (Honours I 2006) Novel Multi-modal User Interaction for Intergenerational Communication Systems
 * Simon Goldrei (Honours I 2005) Seminar
