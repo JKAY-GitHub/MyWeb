@@ -74,7 +74,8 @@ Active Models for Pervasive Computing. (Associate, with Bob Kummerfeld superviso
 (https://ses.library.usyd.edu.au/handle/2123/4207)
 
 * William Niu (2009):
-Ontological Reasoning About Location for Indoor Pervasive Computing Environments
+[Ontological Reasoning About Location for Indoor Pervasive Computing Environments]
+(https://www.dropbox.com/s/k0vowhqxqlwxhdq/2008_William_Niu_PhD.pdf?dl=0)
 
 * David Carmichael (2009): 
 Myplace: supporting scrutability and user control in location modelling
@@ -96,7 +97,8 @@ Exploring the use of web-based virtual patient to support learning through refle
 Learning colour terms. 
 
 * Kang Lee (2003) 
-KAN, a classifier based on a keyword association network.
+[KAN, a classifier based on a keyword association network.]
+(https://www.dropbox.com/s/i0yd81hg32qnmij/2003_Kang_Lee_PhD.pdf?dl=0)
 
 * Lachlan Patrick (2002)
 GraphApp: A Portable Graphics Package Designed for Teaching. 
@@ -136,32 +138,32 @@ Ego: an expandable goal oriented tutoring system.
 * Juan Manuel Cutrera (2019) Subject advisor - finding the right electives
 * Colin Cai (2018) [Data mining authentic, mobile food journals and socio-environmental data](https://www.dropbox.com/s/7h2vahuo7c6g6wj/2018_Colin%20Cai.pdf?dl=0)
 * Ken Koh (2016) - Personalised Augmented Reality interfaces
-* kartik Gupta (2016) Exploring Gamification Designs in Mobile Food Diary for Vegetables
+* Kartik Gupta (2016) Exploring Gamification Designs in Mobile Food Diary for Vegetables
 * Elliot Diebold (2015) [ARdapter: A system for real-time adaptation of user interfaces based on user performance.](https://www.dropbox.com/s/17kwy28ieijsyg2/2015_Diebold.pdf?dl=0) 
 * Joseph Shen Wang (2015) [Optimising Augmented Reality Interfaces to Enhance Visual Search and Target Selection.](https://www.dropbox.com/s/4k3zpdjqpg1dx4y/2015_Wang.pdf?dl=0)
 * Nebojsa Zelenovic (2015) [Blending Digital Content into the Environment in Augmented Reality See-Through Head Mounted Displays](https://www.dropbox.com/s/cub2znn7l75me9x/2015_Zelenovic.pdf?dl=0)
 * Petra Kovacevic (2013) [Scripted collaboration for knowledge creation](https://www.dropbox.com/s/iyrieso1qefr7zz/2013_Kovacevic.pdf?dl=0)
 * Henry Li (2013) Exploring information spaces on tabletops and interactive wall displays 
 * Jonathan Tywble (2013) [Personal CRM exomem](https://www.dropbox.com/s/3hr9bdk2r6d1qtv/2013_twyble.pdf?dl=0)
-* Anthony Simonetta (2012) A Framework for User Controlled Knowledge Modelling of Mobile Information Delivery (About Wellness)
+* Anthony Simonetta (2012) [A Framework for User Controlled Knowledge Modelling of Mobile Information Delivery (About Wellness)](https://www.dropbox.com/s/jzbskqhy2oroea4/2012_Simonetta.pdf?dl=0)
 * Peter Ward (2012) Providing Useful Feedback to Beginner Programmers (joint with James Curran)
 * Stephane Boustani (2010) Designing touch-based interfaces for the elderly 
 * Aaron Cowie (2010) Collaborative Concept Mapping at an Interactive Tabletop 
-* Joseph Michaels (2010) Personalised GeoNotes 
+* Joseph Michaels (2010) [Personalised GeoNotes ](https://www.dropbox.com/s/xbkqgc35s0juc78/2010_Michaels.pdf?dl=0)
 * Kurt Gubi (2010) [RoughMaps: Indoor Positioning using Existing Infrastructure and Symbolic Maps](https://www.dropbox.com/s/6f41f82ywn40gk0/2010_Gubi.pdf?dl=0)
-* Alexander Stevenson (2010) Organisation and Exportation of Media between Tabletop and External Storage Devices 
+* Alexander Stevenson (2010) [Organisation and Exportation of Media between Tabletop and External Storage Devices](https://www.dropbox.com/s/vxxje731b7qanne/2010_Stevenson.pdf?dl=0)
 * Cat Stewart (Hons I 2010) — Multipage documents at tabletops
-* Chris Ackad (Hons I 2009) Moving Beyond Appliance Computing on Tabletop Systems
-* Paul Sztajer (Hons I 2009) - Indicate
-* Christina Yum (Hons I 2009) Towards ubiquitous task management
+* Chris Ackad (Hons I 2009) [Moving Beyond Appliance Computing on Tabletop Systems](https://www.dropbox.com/s/2hhn2xzj399qy90/2009_Ackad.pdf?dl=0)
+* Paul Sztajer (Hons I 2009) Indicate
+* Christina Yum (Hons I 2009) [Towards ubiquitous task management](https://www.dropbox.com/s/ft9r9ss5ydfhtpb/2009_Yum.pdf?dl=0)
 * James Bunton (Honours I 2008) MetaView: Flexible views of users' file collections
 * Gregory Darke (Honours I 2008) Supporting finding/refinding of digital artefacts using an activity based approach with artefact prototypes
 * Sam Thorogood (Honours I 2008) Family: Documents, files, nodes and relationships
-* Kimberley Upton (Honours I 2007) Narcissus: an Interactive Visualisation for Mirroring the Activities of Small Groups
+* Kimberley Upton (Honours I 2007) [Narcissus: an Interactive Visualisation for Mirroring the Activities of Small Groups](https://www.dropbox.com/s/s9zd5s8whqntbfs/2007_Kim_Upton.pdf?dl=0)
 * Carolin Plate (Pruefungsamt Master's Thesis Cognitive Science 2007) Mobile Navigation in Ubiquitous Environments - Comparing Affect and Effectiveness of Linguistic and Cartographic Communication. External supervisor, with Prof Kai-Christoph Hamborg, University of Osnabrueck.
 * Anthony Collins (Honours I 2006) [Exploring tabletop file system interaction](https://www.dropbox.com/s/212vr9etizdi58h/2006_Anthony_Collins.pdf?dl=0)
 * Mark Hingston (Honours I 2006) [User friendly recommender systems](https://www.dropbox.com/s/7g7mq9oo5bkhvi3/2006_Hingston.pdf?dl=0)
-* Glen Whitaker (Honours I 2006) Collaborative image-based tagging and interactive mapping on tabletops 
+* Glen Whitaker (Honours I 2006) [Collaborative image-based tagging and interactive mapping on tabletops](https://www.dropbox.com/s/xrvgi7mcpyen7pz/2006_Glen_Whitaker.pdf?dl=0)
 * Patrick Burns (Honours I 2006) Novel Multi-modal User Interaction for Intergenerational Communication Systems
 * Simon Goldrei (Honours I 2005) Seminar
 * Ajay Brar (Honours I 2004) Privacy and Security in Ubiquitous Personalised Applications 
@@ -238,7 +240,9 @@ How can performance feedback improve metacognitive self-regulation?: Designing d
 * Luke Manning and Justin Wong (Work Experience) (2013 summer)
 * Calvin Ikhwan (E-commerce Treatise) Personal Information Management
 * Preet Kukreti (Hons 2009) Explanation subsystems in Learner Modelling
-* Benjamin Sprengart (2009) Curator: Design Environment for Curating Tabletop Museum Experiences External supervisor, with Prof. Dr. Dieter Wallach, Informatik und Mikrosystemtechnik, University of Applied Sciences, Zweibrucken, Germany.
+* Benjamin Sprengart (2009) [Curator: Design Environment for Curating Tabletop Museum Experiences]
+(https://www.dropbox.com/s/z523wdayt1khr02/2009_Sprengart.pdf?dl=0)
+ External supervisor, with Prof. Dr. Dieter Wallach, Informatik und Mikrosystemtechnik, University of Applied Sciences, Zweibrucken, Germany.
 * Sammy Lo (Eng Thesis, 2008) KeepInTouch: supporting communication between the elderly and the pre-literate on a low-cost device
 * Veasna Hoy (Eng Thesis 2006) Spoken command interaction with KiT
 * Eric Wu (Eng Thesis 2006) Personal information management for electronic mail client
