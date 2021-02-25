@@ -26,12 +26,23 @@ My current teaching at at University of Sydney:
 (https://www.sydney.edu.au/units/COMP5427)
 
 - INFO4994/5995 - Advanced Topics in Computer Science |
-[Syllabus]
+[Formal Syllabus]
 (https://www.sydney.edu.au/units/INFO4994/2021-S1C-SU-RE)
 
-Resources from previous teaching:
+This is a "reading unit". I will run a stream on **Advanced research methods for HCI** where we 
+study excellent use of diverse research methods for human computer interaction (HCI).  
+All are very recent papers from top venues such as
+[CHI](https://dblp.org/db/conf/chi/index.html),
+[CSCW](https://dblp.org/db/conf/cscw/index.html),
+[UIST](https://dblp.org/db/conf/uist/index.html) and
+[IMWUT](https://dblp.org/db/journals/imwut/index.html).
+The papers represent diverse research methods to provide understanding of these methods and HCI literature
+and it is designed to be useful for PhD and Honours thesis students interested in HCI.
 
-- Problem Based Learning (PBL) for First Year Programming. 
+
+
+
+Resources from previous teaching innovation on Problem Based Learning (PBL) for First Year Programming. 
 Over several years, we refined this valuable way to teach first programming with a very broad problem-based perspective. 
 We trialled the approach and compared matched populations. If you are considering this approach you may find the resources below useful.
 
