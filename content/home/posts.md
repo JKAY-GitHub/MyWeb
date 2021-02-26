@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent News Posts"
+title = "Recent and upcoming events"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -37,9 +37,18 @@ count = 5
 
 +++
 
+
+
 * 14-18 Jun, 2021, Invited keynote at the [2021 conference on Artificial Intelligence in Education, AIED 2021](https://aied2021.science.uu.nl/), Utrecht/Virtual, Netherlands,
 Theme: Mind the Gap: AIED for Equity and Inclusion.
 
+* 6–11 Jun, 2021, [Dagstuhl Seminar Transparency by Design]
+(https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21231).
+Organizers:
+Casey Dugan, IBM Research – Cambridge, US;
+Judy Kay, The University of Sydney, AU;
+Tsvi Kuflik, Haifa University, IL;
+Michael Rovatsos, University of Edinburgh, GB.
 
 * 14-19 Mar, 2021, Invited keynote at [ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’21)]
 (https://acm-chiir.github.io/chiir2021/)
