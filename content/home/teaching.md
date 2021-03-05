@@ -15,45 +15,42 @@ weight = 50
 
 +++
 
-My current teaching at at University of Sydney:
+## Current teaching
 
-- DATA3506 - Human-in-the-loop data analytics |
-[Syllabus] 
+- Human-in-the-loop data analytics |
+[DATA3506 Syllabus] 
 (https://www.sydney.edu.au/units/DATA3406)
 
-- COMP5427 - Usability Engineering | 
-[Syllabus] 
+- Usability Engineering | 
+[COMP5427 Syllabus] 
 (https://www.sydney.edu.au/units/COMP5427)
 
-- INFO4994/5995 - Advanced Topics in Computer Science |
-[Formal Syllabus]
-(https://www.sydney.edu.au/units/INFO4994/2021-S1C-SU-RE)
-
-This is a "reading unit". I will run a stream on **Advanced research methods for HCI** where we 
-study excellent use of diverse research methods for human computer interaction (HCI).  
-All are very recent papers from top venues such as
+- Advanced research methods for HCI |
+[INFO4994/5995 Syllabus]
+(https://www.sydney.edu.au/units/INFO4994/2021-S1C-SU-RE) |
+This reading unit for PhD and Honours thesis students covers
+recent papers illustrating diverse research methods for human computer interaction (HCI) from venues such as
 [CHI](https://dblp.org/db/conf/chi/index.html),
 [CSCW](https://dblp.org/db/conf/cscw/index.html),
 [UIST](https://dblp.org/db/conf/uist/index.html) and
 [IMWUT](https://dblp.org/db/journals/imwut/index.html).
-The papers represent diverse research methods to provide understanding of these methods and HCI literature
-and it is designed to be useful for PhD and Honours thesis students interested in HCI.
 
 
 
+## Previous teaching
 
-Resources from previous teaching innovation on Problem Based Learning (PBL) for First Year Programming. 
-Over several years, we refined this valuable way to teach first programming with a very broad problem-based perspective. 
-We trialled the approach and compared matched populations. If you are considering this approach you may find the resources below useful.
+**Problem Based Learning (PBL)**:
+Over several years, we established and refined the approach to teaching programming fundamentals along with a very broad problem-based skills. 
+If you are considering this approach you may find the resources below useful.
 
-The main paper: Kay, J., Barg, M., Fekete, A., Greening, T., Hollands, O., Kingston, J. H., & Crawford, K. (2000). Problem-based learning for foundation computer science courses. Computer Science Education, 10(2), 109-128. 
+- Kay, J., Barg, M., Fekete, A., Greening, T., Hollands, O., Kingston, J. H., & Crawford, K. (2000). Problem-based learning for foundation computer science courses. Computer Science Education, 10(2), 109-128. 
 [DOI](https://doi.org/10.1076/0899-3408(200008)10:2;1-C;FT109) |
 [Tech Report](https://www.dropbox.com/s/r5p0if59wvlmqxv/tr_cse_pbl99.pdf?dl=0) 
 
-Student resources:
+- Student resources:
 [80 page student resources](https://www.dropbox.com/s/1c1773u9srnyubw/99_student_resource.pdf?dl=0) 
 
-Tutor scripts week by week: 
+- Tutor scripts week by week: 
 [01](https://www.dropbox.com/s/6m0pc1if1kvk9ie/01_class.pdf?dl=0) |
 [02](https://www.dropbox.com/s/g65rq2ax9xg10gn/02_class.pdf?dl=0) |
 [03](https://www.dropbox.com/s/ta1cw3dkce47cui/03_class.pdf?dl=0) |
@@ -67,3 +64,26 @@ Tutor scripts week by week:
 [12](https://www.dropbox.com/s/9ig1p21s71csr2z/12_class.pdf?dl=0) |
 [13](https://www.dropbox.com/s/y4ah5htdogxxuda/13_class.pdf?dl=0) 
 
+
+**Curriculum mapping:**
+The CUSP system was created to tackle the challenge of designing a university curriculum that
+builds generic skills such as communication.
+This has been commercialised as
+[u-improve]
+(https://www.uplanner.com/en/soluciones/assessment/u-improve/).
+and published in the PhD work of 
+[Richard Gluga]
+()
+
+**Building group work skills:**
+This aspect of my teaching has been core to several HCI and AIED reseach projects.
+This is reflected in the publications by PhD alumni
+[Andrew Clayphan]
+(https://scholar.google.com.au/citations?user=QQjxyFMAAAAJ&hl=en),
+[Roberto Martinez Maldonado]
+(https://scholar.google.com.au/citations?user=sWXrhB0AAAAJ&hl=en),
+undergraduate reseach by
+[Kim Upton]
+(https://link.springer.com/chapter/10.1007/978-3-642-02247-0_8) and 
+[Dilhan Perera]
+(https://dl.acm.org/doi/abs/10.1109/TKDE.2008.138).
