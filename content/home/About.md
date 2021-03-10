@@ -73,6 +73,9 @@ Advanced Technology for Education group
 [Centre for Research on Learning and Innovation]
 (https://sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-research-on-learning-and-innovation.html).
 
-This site complements my University of Sydney
-[formal home page] 
-(http://sydney.edu.au/engineering/people/judy.kay.php).
+See also my [formal home page] 
+(http://sydney.edu.au/engineering/people/judy.kay.php) |
+[Office: 307, Computer Science Building, 1 Cleveland Street, Sydney University, 2006]
+(https://www.sydney.edu.au/maps/campuses/mazemap_beta.html)
+
+

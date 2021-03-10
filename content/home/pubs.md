@@ -22,3 +22,7 @@ For a full list of my publications, see
 [Google scholar](https://scholar.google.com.au/citations?hl=en&user=4lr4HzgAAAAJ&view_op=list_works)
 and
 [dblp](https://dblp.org/pid/88/635.html).
+
+Also see [Available papers]({{< ref "/pubs-all.md" >}}).
+
+
