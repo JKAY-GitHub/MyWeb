@@ -46,7 +46,28 @@ filter_default = 0
 
 My current projects are:
 
-- Lifelong and lifewide user modelling: creating interfaces and infrastructure for people to control and harness their personal long term data for their learning.
+- Scrutable user modelling. This has been a core focus of my research. Key publications:
+
+First paper on accretion/resolution architecture:
+[The um toolkit for cooperative user modelling]
+(https://link.springer.com/article/10.1007/BF01100243)
+
+Thesis - my first use of term "scrutable":
+[A scrutable user modelling shell for user- adapted interaction]
+(https://www.dropbox.com/s/e9z88zkd6tnybu6/1999_Judy_Kay_thesis.pdf?dl=0)
+
+Summary of first fifteen years work:
+[Creating personalized systems that people can scrutinize and control: Drivers, principles and experience]
+(https://dl.acm.org/doi/abs/10.1145/2395123.2395129)
+
+
+- Lifelong and lifewide user modelling: creating interfaces and infrastructure for people to control and harness their personal long term data for their learning. 
+
+[]: # (Key publications:)
+
+[//]: # ([Lifelong learner modeling for lifelong personalized pervasive learning])
+
+[comment]: # (another)
 
 - Dashboards for long term personal data. 
 

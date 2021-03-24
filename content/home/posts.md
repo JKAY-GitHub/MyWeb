@@ -50,6 +50,9 @@ Judy Kay, The University of Sydney, AU;
 Tsvi Kuflik, Haifa University, IL;
 Michael Rovatsos, University of Edinburgh, GB.
 
+* 8-13 May, 2021, [CHI 2021]
+(https://chi2021.acm.org/)
+
 * 14-19 Mar, 2021, Invited keynote at [ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’21)]
 (https://acm-chiir.github.io/chiir2021/)
 The Case for Scrutable, Personal, Long-Term User Models for Information Retrieval, [Abstract]
