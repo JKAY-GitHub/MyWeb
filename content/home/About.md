@@ -63,8 +63,8 @@ such as nutrition, physical activity, psychology, medical informatics and ehealt
 Within Sydney University, I belong to Charles Perkins Centre Nodes,
 [Active Ageing]
 (https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/active-ageing.html),
-[BABY1000]
-(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/nutrition/baby1000.html),
+[Digital Health Information Network]
+(https://www.sydney.edu.au/charles-perkins-centre/our-research/current-research/integrative-systems-and-modelling/health-informatics-and-health-analytics.html),
 [Health literacy chronic disease network]
 (https://sydney.edu.au/charles-perkins-centre/our-research/current-research/aboriginal-and-torres-strait-islander-health/health-literacy-chronic-disease-network.html) and
 [Wireless wellbeing and personalised health]
