@@ -5,7 +5,7 @@ title = "Foundations for Systematic Evaluation and Benchmarking of a Mobile Food
 date = "2020-06-01"
 
 # Authors.  Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jisu Jung", "Lyndal Wellard-Cole", "Colin Cai", "Irena Koprinska", "Kalina Yacef", "Margaret Allman-Farinelli,", "Judy Kay"]
+authors = ["Jisu Jung", "Lyndal Wellard-Cole", "Colin Cai", "Irena Koprinska", "Kalina Yacef", "Margaret Allman-Farinelli", "Judy Kay"]
 
 # Publication type.
 # Legend:
