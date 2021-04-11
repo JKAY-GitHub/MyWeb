@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ x$1 == x ]
+if [ x"$1" == x ]
 then
 	echo "usage: ./doall commit-comment"
 	exit
