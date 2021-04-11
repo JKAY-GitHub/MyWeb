@@ -27,10 +27,10 @@ preview = true
 - [A Data-centric Computing Curriculum for a Data Science Major]
 (https://doi.org/10.1145/3408877.3432457),  
 Alan Fekete, Judy Kay and Uwe Röhm,  
-Proceedings of the 52nd ACM Technical Symposium on Computer Science Education,
+Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE),
 Association for Computing Machinery, pp 865–871  
-[preprint](https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0),
-[DOI](https://doi.org/10.1145/3408877.3432457)  
+[Preprint](https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0) |
+[Publisher website](https://doi.org/10.1145/3408877.3432457)  
 
 
 # 2020
@@ -39,15 +39,15 @@ Association for Computing Machinery, pp 865–871
 (https://doi.org/10.1145/3397327),  
 Jisu Jung, Lyndal Wellard-Cole, Colin Cai, Irena Koprinska, Kalina Yacef, Margaret Allman-Farinelli and Judy Kay,  
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 4(2).  
-[preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0),
-[DOI] (https://doi.org/10.1145/3397327)
+[Preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3397327)
 
 - [Embedding a VR Game Studio in a Sedentary Workplace: Use, Experience and Exercise Benefits.]
 (https://doi.org/10.1145/3313831.3376371),  
 Soojeong Yoo, Phillip Gough and Judy Kay,  
 Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI), April 2020, 14 pages.  
-[preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0),
-[DOI] (https://doi.org/10.1145/3313831.3376371),
+[Preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3313831.3376371) |
 [video] (https://dl.acm.org/doi/abs/10.1145/3313831.3376371)
 
 # 2019
@@ -56,12 +56,49 @@ Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CH
 (https://doi.org/10.1111/bjet.12878),  
 Judy Kay and Bob Kummerfeld,  
 British Journal of Educational Technology, Sept 2019, 50(6) pp 2871-2884.  
-[preprint] (https://www.dropbox.com/s/se10ktr0pfmfwkw/2019_BJET_PUML.pdf?dl=0),
-[DOI] (https://doi.org/10.1111/bjet.12878) 
+[Preprint] (https://www.dropbox.com/s/se10ktr0pfmfwkw/2019_BJET_PUML.pdf?dl=0),
+[Publisher website] (https://doi.org/10.1111/bjet.12878) 
 
 - [How Does a Nation Walk?: Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns]
 (https://doi.org/10.1145/3328928)  
 Brian Y. Lim, Judy Kay, Weilong Liu  
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 3(2).  
-[preprint] (https://www.dropbox.com/s/wqz4npvkki2bdsy/2019_IMWUT_Lim_Nation_Walk.pdf?dl=0),
-[DOI] (https://doi.org/10.1145/3328928) 
+[Preprint] (https://www.dropbox.com/s/wqz4npvkki2bdsy/2019_IMWUT_Lim_Nation_Walk.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3328928) 
+
+# 2018
+
+- [Defining Adherence: Making Sense of Physical Activity Tracker Data]
+(https://doi.org/10.1145/3191769),  
+Lie Ming Tang, Jochen Meyer, Daniel A. Epstein, Kevin Bragg, Lina Engelen, Adrian Bauman, and Judy Kay,  
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2(1), 22 pp  
+[Preprint] (https://www.dropbox.com/s/6813tant84bhh66/2018_lmtang_imwut18.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3191769)
+
+- [Comparing a Single-Touch Whiteboard and a Multi-Touch Tabletop for Collaboration in School Museum Visits]
+(https://doi.org/10.1145/3191738),  
+Andrew Clayphan, Anthony Collins, Judy Kay, Nathan Slawitschka and Jenny Horder,  
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2(1), 23 pp    
+[Preprint] (https://www.dropbox.com/s/hvk2o6i55858122/2018-Clayphan_iMWUT.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3191738)
+
+- [Does the Public Still Look at Public Displays? A Field Observation of Public Displays in the Wild]
+(https://doi.org/10.1145/3214276),  
+Callum Parker, Martin Tomitsch and Judy Kay,  
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2(2), 24 pp  
+[Preprint] (https://www.dropbox.com/s/c2a3wtf0qu0kd7z/2018_IMWUT_Callum_Parker_public_displays.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3214276),  
+
+- [Scaffolding for an OLM for Long-Term Physical Activity Goals]  
+(https://doi.org/10.1145/3209219.3209220),  
+Lie Ming Tang and Judy Kay,   
+Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization (UMAP '18), pages 147–156  
+[Preprint] (https://www.dropbox.com/s/av9z9gbmy2ra9s9/2018_UMAP-scaffolding-olm.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/3209219.3209220)
+
+- [13th International Conference on the Learning Science, 23rd - 27th June 2018A]
+(https://www.dropbox.com/sh/6i3znc6n5f2cct9/AAA-Eka3PgJeMvBLRxC9e79wa?dl=0) 1889 pages,  
+Judy Kay and Rosemary Luckin (Editors and Programme Chairs),  
+[Volume 1] (https://www.dropbox.com/s/d8gh40xgg2cmitx/ICLS2018%20Volume%201_Final.pdf?dl=0) |
+[Volume 2] (https://www.dropbox.com/s/j8wtxkn32raxpp3/ICLS2018%20Volume%202_Final.pdf?dl=0) |
+[Volume 3] (https://www.dropbox.com/s/ue3ghlgc7of9pd3/ICLS2018%20Volume%203_Final.pdf?dl=0)
