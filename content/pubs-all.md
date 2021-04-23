@@ -105,6 +105,13 @@ Proceedings of the 26th Conference on User Modeling, Adaptation and Personalizat
 
 # 2006
 
+- Judy Kay.   
+[Scrutable adaptation: Because we can and must.]
+(https://www.dropbox.com/s/kr605wvkgis3vl1/2006-AH-keynote-scrutable-adaptation.pdf?dl=0)  
+In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems, pp. 11-19. Springer, Berlin, Heidelberg, 2006.  
+[Publisher website] (https://link.springer.com/chapter/10.1007/11768012_2) |
+[extracted paper] (https://www.dropbox.com/s/kr605wvkgis3vl1/2006-AH-keynote-scrutable-adaptation.pdf?dl=0)
+
 - Marek Czarkowski and Judy Kay.  
 [Giving learners a real sense of control over adaptivity, even if they are not quite ready for it yet.]
 (https://www.dropbox.com/s/jqwebwigg8i2tz4/2006_learner_control_Czarkowski.pdf?dl=0)  
