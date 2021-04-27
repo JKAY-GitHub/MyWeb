@@ -38,6 +38,10 @@ count = 5
 +++
 
 
+* 21-26 June, 2021, 
+[User Modeling, Adaptation and Personalization, UMAP 2021]
+(https://www.um.org/umap2021/),
+Utrecht/Virtual, Netherlands.
 
 * 14-18 Jun, 2021, Invited keynote at the [2021 conference on Artificial Intelligence in Education, AIED 2021](https://aied2021.science.uu.nl/), Utrecht/Virtual, Netherlands,
 Theme: Mind the Gap: AIED for Equity and Inclusion.

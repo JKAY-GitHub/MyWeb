@@ -72,6 +72,9 @@ Within Sydney University, I belong to Charles Perkins Centre Nodes,
 Advanced Technology for Education group
 [Centre for Research on Learning and Innovation]
 (https://sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-research-on-learning-and-innovation.html).
+Other collaborations include:
+[Digital Health Collaborative Research Centre]
+(https://www.digitalhealthcrc.com/).
 
 See also my [Sydney University page] 
 (http://sydney.edu.au/engineering/people/judy.kay.php) |

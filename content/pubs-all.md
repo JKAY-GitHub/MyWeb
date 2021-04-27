@@ -24,11 +24,18 @@ preview = true
 +++
 
 # 2021
+
+- Judy Kay,  
+[Scrutability, control and learner models: foundations for learner-centred design in AIED]
+(https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0),  
+Proceedings of the International Conference on Artificial Intelligence in Education, AIED 2021.  
+[Preprint](https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0)
+
 - Alan Fekete, Judy Kay and Uwe Röhm,  
 [A Data-centric Computing Curriculum for a Data Science Major]
 (https://doi.org/10.1145/3408877.3432457),  
 Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE),
-Association for Computing Machinery, pp 865–871  
+Association for Computing Machinery, pp 865–871.  
 [Preprint](https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0) |
 [Publisher website](https://doi.org/10.1145/3408877.3432457)  
 
