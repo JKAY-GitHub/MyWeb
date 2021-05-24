@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Judy Kay</copyright>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>I lead the multi-disciplinary Human Centred Technology Research Cluster at the University of Sydney, Australia.
+My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). A core driver has been to create systems that enable people to harness their personal data for lifelong and life-wide learning. My research creates systems and interfaces for user models that people can scrutinise, to really see, understand and control their personal data and its use.</description>
+    </item>
+    
+    <item>
+      <title>Full Publication List</title>
+      <link>/home/pubs/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/pubs/</guid>
+      <description>For a full list of my publications, see Google scholar and dblp.
+Also see Available papers.</description>
+    </item>
+    
+    <item>
+      <title>Selected recent Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent and upcoming events</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description>21-26 June, 2021, User Modeling, Adaptation and Personalization, UMAP 2021, Utrecht/Virtual, Netherlands.
+ 14-18 Jun, 2021, Invited keynote at the 2021 conference on Artificial Intelligence in Education, AIED 2021, Utrecht/Virtual, Netherlands, Theme: Mind the Gap: AIED for Equity and Inclusion.
+ 6–11 Jun, 2021, Dagstuhl Seminar Transparency by Design. Organizers: Casey Dugan, IBM Research – Cambridge, US; Judy Kay, The University of Sydney, AU; Tsvi Kuflik, Haifa University, IL; Michael Rovatsos, University of Edinburgh, GB.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description>This section is under construction
+My current projects are:
+ Scrutable user modelling. This has been a core focus of my research. Key publications:
+ 1994: UMUAI paper on accretion/resolution architecture: Kay, Judy. &amp;ldquo;The um toolkit for cooperative user modelling.&amp;rdquo; User Modeling and User-Adapted Interaction 4, no. 3 (1994): 149-196. | pdf
+ 1998: Thesis - my first use of term &amp;ldquo;scrutable&amp;rdquo;: A scrutable user modelling shell for user- adapted interaction.</description>
+    </item>
+    
+    <item>
+      <title>Editorial and Research Leadership</title>
+      <link>/home/editorial/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/editorial/</guid>
+      <description>Editor-in-chief (2012 -) IJAIED: International Journal of Artificial Intelligence in Education | Springer site | IAIED | Submissions and reviews | ERIC | May 2020 Citescore 9.1, rank 9&amp;frasl;1254 Education, 7&amp;frasl;128 Computational Theory and Maths
+ Editor (2018-2020) Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) | PCS submissions
+ Editorial Board (2000 - ): User Modeling and User-Adapted Interaction: The Journal of Personalization Research (UMUAI) | submissions | SCImago HCI</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Current teaching  Human-in-the-loop data analytics | DATA3506 Syllabus
+ Usability Engineering | COMP5427 Syllabus
+ Advanced research methods for HCI | INFO4994/5995 Syllabus | This reading unit for PhD and Honours thesis students covers recent papers illustrating diverse research methods for human computer interaction (HCI) from venues such as CHI, CSCW, UIST and IMWUT.
+  Previous teaching Problem Based Learning (PBL): Over several years, we established and refined the approach to teaching programming fundamentals along with a very broad problem-based skills.</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>/home/students/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/home/students/</guid>
+      <description>Current research students:
+ Samine Hadadi - Supporting designers in learning to create accessible interfaces
+ Bernard Bucalon - Visualising Performance Data (Co-supervisors: Tim Shaw, Kerri Brown)
+ Ying An Chen - Evaluation of Benefits Using a Third-Person in Virtual Reality Educational Games (Co-supervisors: Marcus Carter, Soojeong Yoo)
+ Waheeb Yaqub - Design of interfaces to overcome junk science news (Co-supervisor: Micah Goldwater)
+  I am also co-supervising:
+ Alan Yung - Exploring support for oncologists with the data that drives decisions in diagnosis and treatments (with: Tim Shaw)</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Conferences</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description> ACE 2021 Conf 1-5 Feb, 2021 SIGCSE Conf 13-20 Mar, 2021 ito appear: (A Data-centric Computing Curriculum for a Data Science Major, Fekete, Kay, Röhm) AIED 2021 Paper deadline: 1 Feb 2021 Abstracts, 8 Feb papers, 1 Mar workshops, Conf 14-18 June, 2021 LAK 2021 Deadlines: Conf April 12-16, 2021 (Early rego 25 Feb) IUI 2021 Conf 13-17 April, 2021 Ubicomp 2021 Ubicomp 2022 in Australia  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

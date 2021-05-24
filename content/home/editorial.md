@@ -30,7 +30,7 @@ May 2020 Citescore 9.1, rank 9/1254 Education, 7/128 Computational Theory and Ma
 
 * [Editor] 
 (https://dl.acm.org/journal/imwut/editorial-board)
-(2018-2020)
+(2018 -)
 [Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)]
 (https://imwut.acm.org/) |
 [PCS submissions]
