@@ -119,12 +119,69 @@ Proceedings of the 26th Conference on User Modeling, Adaptation and Personalizat
 
 # 2010
 - Susan Bull and Judy Kay.
-[ Open Learner Models.](https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0)  
+[Open Learner Models.](https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0)  
 In Advances in intelligent tutoring systems, pp. 301-322. Springer, Berlin, Heidelberg.  
 [Preprint] (https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-14363-2_15) 
 
+- Richard Gluga, Judy Kay, and Tim Lever.  
+[Modeling long term learning of generic skills.]
+(https://www.dropbox.com/s/0djk3zfmyapygcy/2010_Gluga_ITS.pdf?dl=0)  
+In International Conference on Intelligent Tutoring Systems, pp. 85-94. Springer, Berlin, Heidelberg, 2010.  
+[Preprint] (
+https://www.dropbox.com/s/0djk3zfmyapygcy/2010_Gluga_ITS.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-13388-6_13)
 
+- William Niu and Judy Kay.   
+[PERSONAF: framework for personalised ontological reasoning in pervasive computing.] 
+(https://www.dropbox.com/s/e8pf358vvm1jigt/2010_Personaf_Niu.pdf?dl=0)  
+User Modeling and User-Adapted Interaction 20, no. 1 (2010): 1-40.  
+[Preprint] (https://www.dropbox.com/s/e8pf358vvm1jigt/2010_Personaf_Niu.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/article/10.1007/s11257-009-9068-2)
+
+- Judy Kay and Bob Kummerfeld.  
+[Lifelong learner modeling.]
+(https://www.dropbox.com/s/y0hhvwgmho4k7gb/2010_ARI_llum.pdf?dl=0)  
+Adaptive technologies for training and education (2012): 140-164. edited by Paula J. Durlach, Alan M. Lesgold Cambridge University Press
+[Preprint] (https://www.dropbox.com/s/y0hhvwgmho4k7gb/2010_ARI_llum.pdf?dl=0) |
+[Google books](https://www.google.com.au/books/edition/_/mOlPSl6iJaIC?hl=en&gbpv=1&pg=PA140&dq=Lifelong+learner+modeling)
+
+
+- Judy Kay, and Bob Kummerfeld.  
+[Tackling HCI challenges of creating personalised, pervasive learning ecosystems.]
+(https://www.dropbox.com/s/7nkux59zjc04at8/2010_ECTEL_keynote.pdf?dl=0)  
+In European Conference on Technology Enhanced Learning, pp. 1-16. Springer, Berlin, Heidelberg, 2010.  
+[Preprint] (https://www.dropbox.com/s/7nkux59zjc04at8/2010_ECTEL_keynote.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-16020-2_1)
+
+- Luiz Pizzato, Luiz, Tomek Rej, Thomas Chung, Irena Koprinska, and Judy Kay.  
+[RECON: a reciprocal recommender for online dating.]
+(https://www.dropbox.com/s/gqqub190a53kurl/2010_RecSysUSYD.pdf?dl=0)  
+In Proceedings of the fourth ACM conference on Recommender systems, pp. 207-214. 2010.  
+[Preprint] (https://www.dropbox.com/s/gqqub190a53kurl/2010_RecSysUSYD.pdf?dl=0) |
+[Publisher website] (https://doi.org/10.1145/1864708.1864747)
+
+
+- Luiz Pizzato, Tomek Rej, Thomas Chung, Irena Koprinska, Kalina Yacef, and Judy Kay.  
+[Reciprocal recommender system for online dating. (Demonstration)]
+(https://www.dropbox.com/s/w3c4g0db0cvnmki/2010_ResSys_demo.pdf?dl=0)  
+In Proceedings of the fourth ACM conference on Recommender systems, pp. 353-354. 2010.  
+[Preprint] (https://www.dropbox.com/s/w3c4g0db0cvnmki/2010_ResSys_demo.pdf?dl=0) 
+[Publisher website] (https://doi.org/10.1145/1864708.1864787)
+
+- Luiz Pizzato, Tomek Rej, Thomas Chung, Kalina Yacef, Irena Koprinska and Judy Kay.  
+[Reciprocal recommenders]
+(https://www.dropbox.com/s/qn972x3rliizs2k/2010_w_UMAP_RecSyst.pdf?dl=0)  
+Workshop on Intelligent Techniques for Web Personalization & Recommender Systems (ITWP'10) at User Modeling, Adaptation and Personalization (UMAP 2010), Big Island of Hawaii  
+[Preprint] (https://www.dropbox.com/s/qn972x3rliizs2k/2010_w_UMAP_RecSyst.pdf?dl=0)
+
+
+- Simon Gerber, Michael Fry, Judy Kay, Bob Kummerfeld, Glen Pink, and Rainer Wasinger.  
+[PersonisJ: mobile, client-side user modelling.]
+(https://www.dropbox.com/s/qikkwnzhfociuox/2010_UMAP_PersonisJ.pdf?dl=0)
+In International Conference on User Modeling, Adaptation, and Personalization, pp. 111-122. Springer, Berlin, Heidelberg, 2010.  
+[Preprint](https://www.dropbox.com/s/qikkwnzhfociuox/2010_UMAP_PersonisJ.pdf?dl=0) |
+[Publisher website](https://link.springer.com/chapter/10.1007/978-3-642-13470-8_12)
 
 # 2006
 
