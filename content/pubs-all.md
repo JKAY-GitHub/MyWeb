@@ -117,6 +117,15 @@ Proceedings of the 26th Conference on User Modeling, Adaptation and Personalizat
 [Volume 2] (https://www.dropbox.com/s/j8wtxkn32raxpp3/ICLS2018%20Volume%202_Final.pdf?dl=0) |
 [Volume 3] (https://www.dropbox.com/s/ue3ghlgc7of9pd3/ICLS2018%20Volume%203_Final.pdf?dl=0)
 
+# 2010
+- Susan Bull and Judy Kay.
+[ Open Learner Models.](https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0)  
+In Advances in intelligent tutoring systems, pp. 301-322. Springer, Berlin, Heidelberg.  
+[Preprint] (https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-14363-2_15) 
+
+
+
 # 2006
 
 - Judy Kay.   
