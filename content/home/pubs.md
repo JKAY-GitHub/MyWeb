@@ -23,6 +23,4 @@ For a full list of my publications, see
 and
 [dblp](https://dblp.org/pid/88/635.html).
 
-Also see [Available papers]({{< ref "/pubs-all.md" >}}).
-
-
+Also see [Papers available online]({{< ref "/pubs-all.md" >}}) 

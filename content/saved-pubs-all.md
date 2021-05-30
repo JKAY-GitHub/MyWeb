@@ -1,8 +1,10 @@
 
 +++
 title = "Selected Publications"
-date = 2018-02-22T14:57:11+11:00
+date = 2021-06-01T14:57:11+11:00
 draft = false
+
+# https://gohugo.io/content-management/formats/
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -35,16 +37,6 @@ Open Access:
 (https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0),  
 Proceedings of the International Conference on Artificial Intelligence in Education, AIED 2021.  
 [Preprint](https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0)
-
-- Judy Kay and Bob Kummerfeld,  
-[PUMPT: an e-Textbook platform based on a Personal User Model for Learning]
-(https://www.dropbox.com/s/1b5qppr6nhve4hw/2021_AIED_Intelligent_Textbooks.pdf?dl=0)  
-Third Workshop on Intelligent Textbooks (iTextbooks)
-at International Conference on Artificial Intelligence in Education [(AIED’2021)]
-(https://aied2021.science.uu.nl/)  
-[Preprint](https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0) |
-[Workshop site](https://intextbooks.science.uu.nl/workshop2021/)
-
 
 - Alan Fekete, Judy Kay and Uwe Röhm,  
 [A Data-centric Computing Curriculum for a Data Science Major]
@@ -126,7 +118,7 @@ Proceedings of the 26th Conference on User Modeling, Adaptation and Personalizat
 [Volume 3] (https://www.dropbox.com/s/ue3ghlgc7of9pd3/ICLS2018%20Volume%203_Final.pdf?dl=0)
 
 # 2010
-- Susan Bull and Judy Kay.  
+- Susan Bull and Judy Kay.
 [Open Learner Models.](https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0)  
 In Advances in intelligent tutoring systems, pp. 301-322. Springer, Berlin, Heidelberg.  
 [Preprint] (https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0) |
