@@ -30,6 +30,15 @@ Nutrients 2021, 13, 1761.
 Open Access:
 [Publisher website](https://doi.org/10.3390/nu13061761) 
 
+- Ilona Juraskova, Rebekah Laidsaar-Powell, Rachael Keast, Penelope Schofield, Daniel SJ Costa, Judy Kay, Sandra Turner, Bogda Koczwara, Christobel Saunders, Michale Jefford, Patsy Yates, Frances Boyle, Kate White, Annie Miller, Rachael L Morton, Zoe Butt and Phyllis Butow.  
+[eTRIO trial: study protocol of a randomised controlled trial of online education modules to facilitate effective family caregiver involvement in oncology.] 
+(https://bmjopen.bmj.com/content/11/5/e043224.full)  
+BMJ Open 2021; 11:e043224. doi:10.1136/ bmjopen-2020-043224  
+[Preprint](https://www.dropbox.com/s/u4mf2l8sapjxjsg/2021-eTRIO_BMJ_Juraskova%20et%20al%202021.pdf?dl=0) |
+Open Access:
+[Publisher website](https://bmjopen.bmj.com/content/11/5/e043224.full)
+
+
 - Judy Kay,  
 [Scrutability, control and learner models: foundations for learner-centred design in AIED]
 (https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0),  
