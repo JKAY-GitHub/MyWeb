@@ -23,6 +23,10 @@ preview = true
 
 ## Past PhD Students
 
+*  Jisu Jung (2021)
+Harnessing and Creating New Technology to Gain Understanding of Young Adults’ Nutrition
+| [Scholar](https://scholar.google.com.au/citations?user=cLCzWU8AAAAJ&hl=en&oi=ao)
+
 * Mike Seymour (2020)
 [To Affinity and Beyond: Interactive Digital Humans as a Human Computer Interface]
 (https://ses.library.usyd.edu.au/handle/2123/21613)
