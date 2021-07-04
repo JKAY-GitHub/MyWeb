@@ -23,7 +23,7 @@ preview = true
 
 ## Past PhD Students
 
-*  Jisu Jung (2021)
+*  Jisu (Joseph) Jung (2021)
 Harnessing and Creating New Technology to Gain Understanding of Young Adults’ Nutrition
 | [Scholar](https://scholar.google.com.au/citations?user=cLCzWU8AAAAJ&hl=en&oi=ao)
 

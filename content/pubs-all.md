@@ -50,9 +50,12 @@ Proceedings of the International Conference on Artificial Intelligence in Educat
 (https://www.dropbox.com/s/1b5qppr6nhve4hw/2021_AIED_Intelligent_Textbooks.pdf?dl=0)  
 Third Workshop on Intelligent Textbooks (iTextbooks)
 at International Conference on Artificial Intelligence in Education [(AIED’2021)]
-(https://aied2021.science.uu.nl/)  
+(https://aied2021.science.uu.nl/), CEUR Proceedings Vol-2895,  
 [Preprint](https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0) |
-[Workshop site](https://intextbooks.science.uu.nl/workshop2021/)
+[Workshop site](https://intextbooks.science.uu.nl/workshop2021/) |
+[Online proceedings]
+(http://ceur-ws.org/Vol-2895/) 
+
 
 
 - Alan Fekete, Judy Kay and Uwe Röhm,  
