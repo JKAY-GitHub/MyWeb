@@ -2,6 +2,10 @@
 to run locally:
 http://localhost:1313/
 
+to start the server
+../hugo server
+
+
 github site:
 https://github.com/JKAY-GitHub/JKAY-GitHub.github.io/tree/master
 

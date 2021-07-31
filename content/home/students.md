@@ -15,8 +15,11 @@ weight = 60
 +++
 Current research students:
 
+- [Kim Bente](https://kimbente.com/) - Uncertainty quantification and communication in environmental modelling
+(Co-supervisor: [Sally Cripps](https://www.sydney.edu.au/science/about/our-people/academic-staff/sally-cripps.html) funded by [ARC Training Centre in Data Analytics for Resources and Environments (DARE) Centre](https://darecentre.org.au/)
+
 - [Samine Hadadi](https://www.linkedin.com/in/samine-hadadi/?originalSubdomain=au) -
-Supporting designers in learning to create accessible interfaces
+Supporting designers in creating accessible interfaces
 
 - [Bernard Bucalon](https://www.sydney.edu.au/engineering/about/our-people/research-students/bernard-bucalon-672.html) - _Visualising Performance Data_ 
 (Co-supervisors: [Tim Shaw](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/tim.shaw.html),
