@@ -50,10 +50,6 @@ _Personalised Health Education using Human Centred Technologies Multimodal Data_
 - [Nisal Menuka Kanwel Gamage Don](http://sydney.edu.au/engineering/people/nisalmenuka.kanwelgamagedon.458.php) - _Sustainable non-intrusive wearable devices for long term activity monitoring for applications in healthcare and education_
 (with: [Anusha Withana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/anusha-withana.html))
 
-
-- [Ben Taylor](http://sydney.edu.au/education_social_work/about/staff/profiles/ben.taylor.477.php) - _Designing a collaborative learning tool for learning at scale_
-(with: [Peter Reimann](https://www.sydney.edu.au/arts/about/our-people/academic-staff/peter-reimann.html))
-
 - [Chris Wong](http://sydney.edu.au/engineering/people/chris.wong.616.php) - _Sequence Based recommender for personalised curriculum planning_
 (with: [Kalina Yacef](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kalina-yacef.html))
 
