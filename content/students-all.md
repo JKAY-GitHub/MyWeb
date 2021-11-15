@@ -173,6 +173,10 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Louise Stuart (2021) [Creating a Scrutable Open Learner Model Interface](https://www.dropbox.com/s/3ts7rh50a915cuq/2021-Louise_Stuart.pdf?dl=0)
+
+* Nina Nguyen (2021) [Communicating uncertainty in the visualisation of long-term physical activity data: the nature of tracker data](https://www.dropbox.com/s/qlidrj1hnz1woi2/2021-Nina-Nguyen.pdf?dl=0)
+
 * Lichen Xue (2019) [UpRight: How to harness the lockscreen of mobile phone to improve the posture while using phone](https://www.dropbox.com/s/kaqsmp325uufkyy/2018_Lichen_Yue_lock_screen_Thesis.pdf?dl=0)
 * [Juan Manuel Cutrera](https://www.linkedin.com/in/juan-cutrera/) (2019) Subject advisor - finding the right electives
 * Colin Cai (2018) [Data mining authentic, mobile food journals and socio-environmental data](https://www.dropbox.com/s/7h2vahuo7c6g6wj/2018_Colin%20Cai.pdf?dl=0)
