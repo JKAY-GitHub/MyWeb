@@ -173,6 +173,8 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Tahsin Samia (2021) [New Perspectives on User Logging Behavior in Mobile Apps for Dietary Assessment](https://www.dropbox.com/s/8om9u9s5y87k7pj/2021-Tahsin%20Samia%20Honors%20Thesis.pdf?dl=0)
+
 * Louise Stuart (2021) [Creating a Scrutable Open Learner Model Interface](https://www.dropbox.com/s/3ts7rh50a915cuq/2021-Louise_Stuart.pdf?dl=0)
 
 * Nina Nguyen (2021) [Communicating uncertainty in the visualisation of long-term physical activity data: the nature of tracker data](https://www.dropbox.com/s/qlidrj1hnz1woi2/2021-Nina-Nguyen.pdf?dl=0)
