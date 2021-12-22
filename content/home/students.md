@@ -42,16 +42,10 @@ I am also co-supervising:
 (with: [David Lowe](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/david-lowe.html)  ,
 [Keith Willey](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/keith-willey.html))
 
-- [Claudio Diaz Cifuentes](https://www.sydney.edu.au/engineering/about/our-people/research-students/claudio-diazcifuentes-612.html)
-_Personalised Health Education using Human Centred Technologies Multimodal Data_
-(with: [Corinne Caillaud](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/corinne.caillaud.html),
-[Kalina Yacef](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kalina-yacef.html))
 
 - [Nisal Menuka Kanwel Gamage Don](http://sydney.edu.au/engineering/people/nisalmenuka.kanwelgamagedon.458.php) - _Sustainable non-intrusive wearable devices for long term activity monitoring for applications in healthcare and education_
 (with: [Anusha Withana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/anusha-withana.html))
 
-- [Chris Wong](http://sydney.edu.au/engineering/people/chris.wong.616.php) - _Sequence Based recommender for personalised curriculum planning_
-(with: [Kalina Yacef](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kalina-yacef.html))
 
 
 - [Jiakun Yu](http://sydney.edu.au/engineering/people/jiakun.yu.714.php) - _Soft and flexible smart sensor for monitoring long-term gastrointestinal activities_
