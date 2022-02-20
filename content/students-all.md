@@ -24,7 +24,8 @@ preview = true
 ## Past PhD Students
 
 *  Jisu (Joseph) Jung (2021)
-Harnessing and Creating New Technology to Gain Understanding of Young Adults’ Nutrition
+[Harnessing and Creating New Technology to Gain Understanding of Young Adults’ Nutrition]
+(https://ses.library.usyd.edu.au/handle/2123/25476)
 | [Scholar](https://scholar.google.com.au/citations?user=cLCzWU8AAAAJ&hl=en&oi=ao)
 
 * Mike Seymour (2020)
