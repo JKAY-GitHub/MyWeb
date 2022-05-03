@@ -70,10 +70,10 @@ The CUSP system was created to tackle the challenge of designing a university cu
 builds generic skills such as communication.
 This has been commercialised as
 [u-improve]
-(https://www.uplanner.com/en/soluciones/assessment/u-improve/).
+(https://uplanner.com/en/)
 and published in the PhD work of 
 [Richard Gluga]
-()
+(https://scholar.google.com.au/citations?user=YzvoeRAAAAAJ&hl=en&oi=ao).
 
 **Building group work skills:**
 This aspect of my teaching has been core to several HCI and AIED reseach projects.
