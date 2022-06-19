@@ -176,6 +176,10 @@ Ego: an expandable goal oriented tutoring system.
 
 * Freya Singh (2022) [Protocol For the Evaluation of Information Visualisations with Data Uncertainty: Case Study in COVID-19 Vaccine Effectiveness](https://www.dropbox.com/s/qtsgaof0n1yuaub/2022-Freya-Singh.pdf?dl=0)
 
+* Matthew Phang (2022)
+[L2L: A scrutable open learner model for an e-textbook.]
+(https://www.dropbox.com/s/oovpefz5kp8b0p3/2022-Matthew_Phang.pdf?dl=0)
+
 * Tahsin Samia (2021) [New Perspectives on User Logging Behavior in Mobile Apps for Dietary Assessment](https://www.dropbox.com/s/8om9u9s5y87k7pj/2021-Tahsin%20Samia%20Honors%20Thesis.pdf?dl=0)
 
 * Louise Stuart (2021) [Creating a Scrutable Open Learner Model Interface](https://www.dropbox.com/s/3ts7rh50a915cuq/2021-Louise_Stuart.pdf?dl=0)
