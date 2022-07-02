@@ -21,6 +21,26 @@ preview = true
 
 +++
 
+# 2022
+
+- Bernard Bucalon, Tim Shaw, Kerri Brown, and Judy Kay.   
+[State-of-the-art Dashboards on Clinical Indicator Data to Support Reflection on Practice: Scoping Review]
+(https://medinform.jmir.org/2022/2/e32695)   
+JMIR medical informatics, 10(2), e32695.
+
+
+- Judy Kay, Kathryn Bartimote, Kirsty Kitto, Bob Kummerfeld, Danny Liu, Peter Reimann.   
+[Enhancing learning by Open Learner Model (OLM) driven data design]
+(https://www.dropbox.com/s/8xri4g7qsvtx8a7/2022-Comp-Ed-AI-OLMs_constructive_alignment_analytics.pdf?dl=0)   
+Computers and Education: Artificial Intelligence, 3, p.100069.   
+[Preprint](https://www.dropbox.com/s/8xri4g7qsvtx8a7/2022-Comp-Ed-AI-OLMs_constructive_alignment_analytics.pdf?dl=0) |
+[Publisher website](https://www.sciencedirect.com/science/article/pii/S2666920X22000248)
+
+- Hassan Khosravi, Simon Buckingham Shum, Guanliang Chen, Cristina Conati, Yi-Shan Tsai, Judy Kay, Simon Knight, Roberto Martinez-Maldonado, Shazia Sadiq, Dragan Gašević.  
+[Explainable Artificial Intelligence in education]
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000297)   
+Computers and Education: Artificial Intelligence 3 (2022): 100074.
+
 # 2021
 
 - Lyndal Wellard-Cole, Alyse Davies, Juliana Chen, Jisu Jung, Kim B. Bente, Judy Kay, Wendy L. Watson, Clare Hughes, Anna Rangan, Kalina Yacef, Irena Koprinska, Kathy Chapman, Nim Ting Wong, Luke Gemming, Cliona Ni Mhurchu, Adrian Bauman and Margaret Allman-Farinelli,  
@@ -137,7 +157,52 @@ Proceedings of the 26th Conference on User Modeling, Adaptation and Personalizat
 [Volume 2] (https://www.dropbox.com/s/j8wtxkn32raxpp3/ICLS2018%20Volume%202_Final.pdf?dl=0) |
 [Volume 3] (https://www.dropbox.com/s/ue3ghlgc7of9pd3/ICLS2018%20Volume%203_Final.pdf?dl=0)
 
+# 2017
+
+- Bob Kummerfeld and Judy Kay.   
+[User Modeling for the Internet of Things]
+(https://www.dropbox.com/s/8knr0jgrn75mgds/2017_UMAP_iotum.pdf?dl=0)   
+In Proceedings of the 25th Conference on User Modeling, Adaptation and Personalization, pp. 367-368. 2017.   
+[Preprint](https://www.dropbox.com/s/8knr0jgrn75mgds/2017_UMAP_iotum.pdf?dl=0) |
+[Publisher website] (https://dl.acm.org/doi/abs/10.1145/3079628.3079658?casa_token=V7enxoGstr0AAAAA:J8xiayo-1NyAqsfFwJ5Cf_AxYnP2W3Mx-csrGSNH18-j-RShUfKj-tu66uhNL0JOuJk_lB_eY_L_pA)
+
+- Soojeong Yoo, Tristan Heywood, Lie Ming Tang, Bob Kummerfeld, and Judy Kay. .   
+[Towards a Long Term Model of Virtual Reality Exergame Exertion]
+(https://www.dropbox.com/s/x7o2g6zv45xuv36/2017_UMAP_Yoo_long-term-model.pdf?dl=0)   
+In Proceedings of the 25th Conference on User Modeling, Adaptation and Personalization, pp. 247-255. 2017.   
+[Preprint] (https://www.dropbox.com/s/x7o2g6zv45xuv36/2017_UMAP_Yoo_long-term-model.pdf?dl=0) |
+[Publisher website] (https://dl.acm.org/doi/abs/10.1145/3079628.3079679?casa_token=JbylOtxvszIAAAAA:yUSe-ZjTP5fStKp7syT20qz0c_9kABvB3MhCY2YOhjUxgK-_kGWiLnoSv5O6-j9aMDWH04fY5OUuiw)
+
+# 2014
+
+-  Debjanee Barua, Judy Kay, Bob Kummerfeld, and Cécile Paris.   
+[Modelling long term goals.]
+(https://www.dropbox.com/s/n5pph3moveleug1/2014_Barua_modelling_goals.pdf?dl=0)   
+In International Conference on User Modeling, Adaptation, and Personalization (pp. 1-12). Springer, Cham.   
+[Preprint] (https://www.dropbox.com/s/n5pph3moveleug1/2014_Barua_modelling_goals.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-319-08786-3_1)
+
+
+
+# 2011
+
+- Roberto Martinez, Judy Kay, James R. Wallace, and Kalina Yacef.   
+[Modelling Symmetry of Activity as an Indicator of Collocated Group Collaboration]
+(https://www.dropbox.com/s/j6f1j07ezddm6ue/2011_Martinez_UMAPp.pdf?dl=0)   
+ In International Conference on User Modeling, Adaptation, and Personalization, pp. 207-218. Springer, Berlin, Heidelberg, 2011.
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-22362-4_18)
+
+
+- Luiz Augusto Pizzato, Tomek Rej, Kalina Yacef, Irena Koprinska, and Judy Kay.   
+[Finding Someone You Will Like and Who Won’t Reject You.]
+(https://www.dropbox.com/s/d7zl98qi1hnykvy/2011_Pizzato_UMAP.pdf?dl=0)   
+In International Conference on User Modeling, Adaptation, and Personalization (pp. 269-280). Springer, Berlin, Heidelberg.   
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-22362-4_23)
+
+
+
 # 2010
+
 - Susan Bull and Judy Kay.  
 [Open Learner Models.](https://www.dropbox.com/s/9gigbo6y53z1r2k/2010_Bull_Kay_OLMs_2010.pdf?dl=0)  
 In Advances in intelligent tutoring systems, pp. 301-322. Springer, Berlin, Heidelberg.  
@@ -232,3 +297,79 @@ In CHI'06 Extended Abstracts on Human Factors in Computing Systems, pp. 1001-100
 In Proceedings of the SIGCHI conference on Human Factors in computing systems, pp. 781-790. 2006.  
 [Preprint] (https://www.dropbox.com/s/dk0gjirokonl8s4/2006_apted06tabletop.pdf?dl=0)
 [Publisher website] (https://doi.org/10.1145/1124772.1124887)
+
+
+# 2004
+
+
+- Trent Apted, Judy Kay, and Andrew Lum.   
+[Supporting Metadata Creation with an Ontology Built from an Extensible Dictionary]
+https://www.dropbox.com/s/zm88jtaasr72k6b/2004_AH_Lum_Apted_METASAUR.pdf?dl=0)   
+In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems (pp. 4-13). Springer, Berlin, Heidelberg.
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-540-27780-4_4)
+
+
+
+# 2003
+
+- Marek Czarkowski and Judy Kay.  
+[How to give the user a sense of control over the personalization of AH?]
+(https://www.dropbox.com/s/n1bzjb3gh8fn3fs/2003_Czarkowski_How_to_give_the_user_a_sense_of_control.pdf?dl=0)   
+n Workshop on Adaptive Hypermedia and Adaptive Web-Based Systems, AH2003, User Modeling Session.   
+
+- Eric McCreath and Judy Kay.   
+[Iems: Helping Users Manage Email]
+(https://www.dropbox.com/s/2dqu970ye10ep2e/2003_UMAP_McCreathp.pdf?dl=0)   
+In International Conference on User Modeling, pp. 263-272. Springer, Berlin, Heidelberg, 2003.   
+[Publisher website] (https://link.springer.com/chapter/10.1007/3-540-44963-9_35)
+
+- James Uther and Judy Kay.   
+[VlUM, a Web-Based Visualisation of Large User Models]
+(https://www.dropbox.com/s/rmbuinnkht8v472/2003_VLUM_Utherp.pdf?dl=0)   
+In International Conference on User Modeling (pp. 198-202). Springer, Berlin, Heidelberg.   
+[Publisher website] (https://link.springer.com/chapter/10.1007/3-540-44963-9_26)
+
+
+
+# 2002
+
+- Judy Kay, Bob Kummerfeld and Piers Lauder.   
+[Personis: a server for user models.]
+(https://www.dropbox.com/s/yldudgpfwk553ud/2002-Personis-AH.pdf?dl=0)    
+In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems, pp. 203-212. Springer, Berlin, Heidelberg, 2002.   
+[Publisher website] (https://link.springer.com/chapter/10.1007/3-540-47952-X_22) |
+[extracted paper] (https://www.dropbox.com/s/yldudgpfwk553ud/2002-Personis-AH.pdf?dl=0)
+
+- Marek Czarkowski and Judy Kay.  
+[A scrutable adaptive hypertext]
+(https://www.dropbox.com/s/wkoo4smvfegfvhn/2002_Czarkowski_Kay_AHp.pdf?dl=0)   
+In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems (pp. 384-387). Springer, Berlin, Heidelberg.   
+[Preprint] (https://www.dropbox.com/s/wkoo4smvfegfvhn/2002_Czarkowski_Kay_AHp.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)
+
+# 1994
+
+- Judy Kay.   
+Invited Keynote: [Lies, damned lies and stereotypes: pragmatic approximations of users]
+(https://www.dropbox.com/s/cuziqultabf7ty1/1994_invited_keynote_UM.pdf?dl=0)
+User Modeling, 1994
+
+- Ronny Cook and Judy Kay.   
+[The justified user model: a viewable, explained user model]
+(https://www.dropbox.com/s/2tnfslaya0ktc7x/1994_The_justified_user_model_a_viewable_expl.pdf?dl=0)   
+In Proceedings of the Fourth International Conference on User Modeling. 1994.   
+[Preprint] (https://www.dropbox.com/s/2tnfslaya0ktc7x/1994_The_justified_user_model_a_viewable_expl.pdf?dl=0)
+
+- Judy Kay.   
+[The um toolkit for cooperative user modelling]
+(https://www.dropbox.com/s/0lu84u27qoap7dv/1994_UMUAI_TR_version_The_um_toolkit_for_cooperative_user_mode.pdf?dl=0)   
+User Modeling and User-Adapted Interaction, 4(3), pp.149-196.   
+[Preprint] (https://www.dropbox.com/s/0lu84u27qoap7dv/1994_UMUAI_TR_version_The_um_toolkit_for_cooperative_user_mode.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/article/10.1007/BF01100243)
+
+- James Uther and Judy Kay.   
+[VlUM, a Web-Based Visualisation of Large User Models]
+(https://www.dropbox.com/s/rmbuinnkht8v472/2003_VLUM_Utherp.pdf?dl=0)   
+In International Conference on User Modeling, pp. 198-202. Springer, Berlin, Heidelberg, 2003.  
+[Preprint] (https://www.dropbox.com/s/rmbuinnkht8v472/2003_VLUM_Utherp.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/3-540-44963-9_26)
