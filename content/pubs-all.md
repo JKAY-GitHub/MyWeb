@@ -289,6 +289,13 @@ In International Conference on User Modeling, Adaptation, and Personalization (p
 
 # 2013
 
+- Susan Bull, and Judy Kay.    
+[Open learner models as drivers for metacognitive processes.]
+(https://www.dropbox.com/s/sgdzd6w3m1oeefe/2013_Bull_Kay_OLM_metacog_author.pdf?dl=0)   
+In International handbook of metacognition and learning technologies, pp. 349-365. Springer, New York, NY, 2013.   
+[Preprint] (https://www.dropbox.com/s/sgdzd6w3m1oeefe/2013_Bull_Kay_OLM_metacog_author.pdf?dl=0) |
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/978-1-4419-5546-3_23)
+
 - Rainer Wasinger, James Wallbank, Luiz Pizzato, Judy Kay, Bob Kummerfeld, Matthias Böhmer & Antonio Krüger.   
 [Scrutable User Models and Personalised Item Recommendation in Mobile Lifestyle Applications]
 (https://www.dropbox.com/s/3ewqpgulr5ukbfp/2013_UMAP_WasingerWallbank.pdf?dl=0)   
@@ -296,6 +303,53 @@ In International Conference on User Modeling, Adaptation, and Personalization (p
 [Preprint] (https://www.dropbox.com/s/3ewqpgulr5ukbfp/2013_UMAP_WasingerWallbank.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-38844-6_7)   
 
+
+# 2012
+
+- Richard Gluga, Judy Kay, Raymond Lister, and Tim Lever.    
+[A unified model for embedding learning standards into university curricula for effective accreditation and quality assurance.]
+(https://www.dropbox.com/s/626jxgk6ius7ajo/2012-AAEE_CUSP.pdf?dl=0)   
+In Australian Association for Engineering Education Conference. 2012.
+
+- Richard Gluga, Judy Kay, Raymond Lister, Sabina Kleitman, and Tim Lever.    
+[Over-confidence and confusion in using bloom for programming fundamentals assessment.]
+(https://www.dropbox.com/s/b12kjpf1ygnmudc/2012_SIGCSE_Bloom.pdf?dl=0)    
+In Proceedings of the 43rd ACM technical symposium on Computer Science Education, pp. 147-152. 2012.    
+[Preprint](https://www.dropbox.com/s/b12kjpf1ygnmudc/2012_SIGCSE_Bloom.pdf?dl=0) |
+[Publisher website - Open Access](https://dl.acm.org/doi/10.1145/2157136.2157181)
+
+- Luke Hespanhol, Martin Tomitsch, Kazjon Grace, Anthony Collins, and Judy Kay.    
+[Investigating intuitiveness and effectiveness of gestures for free spatial interaction with large displays.]
+(https://www.dropbox.com/s/dqj5ca2jy5nvuoy/2012_PervasiveDisplays_Hespanhol.pdf?dl=0)   
+In Proceedings of the 2012 International Symposium on Pervasive Displays, pp. 1-6. 2012.   
+[Preprint](https://www.dropbox.com/s/dqj5ca2jy5nvuoy/2012_PervasiveDisplays_Hespanhol.pdf?dl=0)
+[Publisher website - Open Access](https://dl.acm.org/doi/10.1145/2307798.2307804)
+
+- Tsvi Kuflik, Judy Kay, and Bob Kummerfeld.    
+[Challenges and solutions of ubiquitous user modeling.]
+(https://www.dropbox.com/s/5ym3nwcuxzxm6rr/2012_Ubiquitous_User_Modeling.pdf?dl=0)   
+In Ubiquitous display environments, pp. 7-30. Springer, Berlin, Heidelberg, 2012.
+[Preprint](https://www.dropbox.com/s/5ym3nwcuxzxm6rr/2012_Ubiquitous_User_Modeling.pdf?dl=0) |   
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/978-3-642-27663-7_2)
+
+- Roberto Martinez Maldonado, Yannis Dimitriadis, Judy Kay, Kalina Yacef, and Marie-Theresa Edbauer.    
+[Orchestrating a multi-tabletop classroom: from activity design to enactment and reflection.]
+(https://dl.acm.org/doi/10.1145/2396636.2396655)   
+In Proceedings of the 2012 ACM international conference on Interactive tabletops and surfaces, pp. 119-128. 2012.   
+[Publisher website - Open Access] (https://dl.acm.org/doi/10.1145/2396636.2396655)
+
+- Luiz Pizzato, Tomasz Rej, Joshua Akehurst, Irena Koprinska, Kalina Yacef, and Judy Kay.    
+[Recommending people to people: the nature of reciprocal recommenders with a case study in online dating.]
+(https://www.dropbox.com/s/cb93kjvlolh1n7q/2012_UMUAI_Pizzato_etal_UMUAI.pdf?dl=0)   
+User Modeling and User-Adapted Interaction 23, no. 5 (2013): 447-488.   
+[Preprint] (https://www.dropbox.com/s/cb93kjvlolh1n7q/2012_UMUAI_Pizzato_etal_UMUAI.pdf?dl=0)
+[Publisher website - Open Access] (https://link.springer.com/article/10.1007/s11257-012-9125-0)
+
+- Luiz Pizzato, Joshua Akehurst, Cameron Silvestrini, Kalina Yacef, Irena Koprinska, and Judy Kay. 
+[The effect of suspicious profiles on people recommenders.]
+(https://www.dropbox.com/s/lbyfirwcqgou0rl/2012_UMAP_FakeProfileInfluence.pdf?dl=0)
+In International Conference on User Modeling, Adaptation, and Personalization, pp. 225-236. Springer, Berlin, Heidelberg, 2012.
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/978-3-642-31454-4_19)
 
 # 2011
 
@@ -391,6 +445,12 @@ In International Conference on Adaptive Hypermedia and Adaptive Web-Based System
 [extracted paper] (https://www.dropbox.com/s/kr605wvkgis3vl1/2006-AH-keynote-scrutable-adaptation.pdf?dl=0)
 
 - Marek Czarkowski and Judy Kay.  
+[A scrutable adaptive hypertext.]
+(https://link.springer.com/chapter/10.1007/3-540-47952-X_43)  
+In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems, pp. 384-387. Springer, Berlin, Heidelberg, 2002.  
+[Publisher website - Open Access) (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)
+
+- Marek Czarkowski and Judy Kay.  
 [Giving learners a real sense of control over adaptivity, even if they are not quite ready for it yet.]
 (https://www.dropbox.com/s/jqwebwigg8i2tz4/2006_learner_control_Czarkowski.pdf?dl=0)  
 In Advances in Web-based education: Personalized learning environments, pp. 93-126. IGI Global, 2006.  
@@ -460,12 +520,74 @@ In International Conference on Adaptive Hypermedia and Adaptive Web-Based System
 [Preprint] (https://www.dropbox.com/s/wkoo4smvfegfvhn/2002_Czarkowski_Kay_AHp.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)
 
+# 2000
+- Judy Kay.    
+[Stereotypes, student models and scrutability.]
+(https://www.dropbox.com/s/mqi1fwe8f28yize/2000_keynote_stereo_its.pdf?dl=0)   
+In International Conference on Intelligent Tutoring Systems, pp. 19-30. Springer, Berlin, Heidelberg, 2000.   
+[Preprint] (https://www.dropbox.com/s/mqi1fwe8f28yize/2000_keynote_stereo_its.pdf?dl=0) |
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/3-540-45108-0_5)
+
+
+
+- Judy Kay.    
+[Accretion representation for scrutable student modelling.]
+(https://www.dropbox.com/s/2fcuskcdnbarlac/2000_ITS_accrete.pdf?dl=0)   
+In International Conference on Intelligent Tutoring Systems, pp. 514-523. Springer, Berlin, Heidelberg, 2000.   
+[Preprint] (https://www.dropbox.com/s/2fcuskcdnbarlac/2000_ITS_accrete.pdf?dl=0) |
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/3-540-45108-0_55)
+
+# 1999
+- Judy Kay.   
+[Position paper - Ontologies for reusable and scrutable student models.]
+(https://www.dropbox.com/s/ajmm6arddoxjj35/1999_ont.pdf?dl=0)
+In AIED Workshop, vol. 2, pp. 72-77. 1999.
+
+- Sam Holden and Judy Kay.   
+[The scrutable user model and beyond.]
+(https://www.dropbox.com/s/hjef72sgtiph4kw/1999_Holden_The_scrutable_user_model_and_beyond.pdf?dl=0)  
+Sydney: Basser Department of Computer Science, University of Sydney, 1999.
+
+
+# 1997
+
+
+- Judy Kay.    
+Invited keynote: [Learner know thyself: Student models to give learner control and responsibility.]
+(https://www.dropbox.com/s/dvn8dix5q7upr65/1997-keynote-icce.pdf?dl=0)  
+In Z. Halin, T. Ottomann, and Z. Razak. (Eds) Proceedings of international conference on computers in education, pp. 17-24. 1997.  
+[Preprint] (https://www.dropbox.com/s/dvn8dix5q7upr65/1997-keynote-icce.pdf?dl=0)
+
+
+
+# 1995
+
+- Judy Kay, Judy.   
+Invited Keynote: [Vive la difference! individualised interaction with users.]
+(https://www.dropbox.com/s/gcwjv6uug0knr9o/1995_Keynote_ijcai.pdf?dl=0)  
+In IJCAI (1), pp. 978-984. 1995.    
+[Preprint] (https://www.dropbox.com/s/gcwjv6uug0knr9o/1995_Keynote_ijcai.pdf?dl=0) |
+[Publisher website] (https://www.ijcai.org/proceedings/1995-1)
+
+- Judy Kay and and Richard C. Thomas.   
+[Studying long-term system use.]
+(https://www.dropbox.com/s/qowbctns4ulkmyc/1995-CACM-Thomas.pdf?dl=0)   
+Communications of the ACM 38, no. 7 (1995): 61-69.   
+[Publisher website - Open Access] (https://dl.acm.org/doi/10.1145/213859.214799)
+
 # 1994
 
 - Judy Kay.   
 Invited Keynote: [Lies, damned lies and stereotypes: pragmatic approximations of users]
 (https://www.dropbox.com/s/cuziqultabf7ty1/1994_invited_keynote_UM.pdf?dl=0)   
 User Modeling, 1994
+
+- Judy Kay, and Bob (R. J.) Kummerfeld.    
+[An individualised course for the C programming language.]
+(https://www.dropbox.com/s/u9rd7w05es8cum0/1994_www.pdf?dl=0)   
+In Proceedings of Second International WWW Conference, pp. 17-20. 1994.   
+[Web version](https://www.dropbox.com/s/qu4152a9bsxbdd9/1994_www.html?dl=0) |
+[Preprint] (https://www.dropbox.com/s/u9rd7w05es8cum0/1994_www.pdf?dl=0)   
 
 - Ronny Cook and Judy Kay.   
 [The justified user model: a viewable, explained user model]
@@ -486,3 +608,10 @@ User Modeling and User-Adapted Interaction, 4(3), pp.149-196.
 In International Conference on User Modeling, pp. 198-202. Springer, Berlin, Heidelberg, 2003.  
 [Preprint] (https://www.dropbox.com/s/rmbuinnkht8v472/2003_VLUM_Utherp.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/3-540-44963-9_26)
+
+# 1990
+- Judy Kay.     
+[um: a user modelling toolkit]
+(https://www.dropbox.com/s/bbbexz4zsoabt5i/1990-UM-Kay-toolkit.pdf?dl=0)   
+Second International User Modelling Workshop, 1990. pp. 251-261.   
+[Preprint 1989 Tech report] (https://www.dropbox.com/s/bbbexz4zsoabt5i/1990-UM-Kay-toolkit.pdf?dl=0)
