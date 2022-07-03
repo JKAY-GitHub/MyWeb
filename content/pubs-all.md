@@ -29,6 +29,7 @@ preview = true
 JMIR medical informatics, 10(2), e32695.
 
 
+
 - Judy Kay, Kathryn Bartimote, Kirsty Kitto, Bob Kummerfeld, Danny Liu, Peter Reimann.   
 [Enhancing learning by Open Learner Model (OLM) driven data design]
 (https://www.dropbox.com/s/8xri4g7qsvtx8a7/2022-Comp-Ed-AI-OLMs_constructive_alignment_analytics.pdf?dl=0)   
@@ -42,13 +43,38 @@ Computers and Education: Artificial Intelligence, 3, p.100069.
 Computers and Education: Artificial Intelligence 3 (2022): 100074.
 
 # 2021
+- Judy Kay.   
+Invited Keynote: [Scrutability, Control and Learner Models: Foundations for Learner-Centred Design in AIED.]
+(https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0)
+In International Conference on Artificial Intelligence in Education, pp. 3-8. Springer, Cham, 2021.
+[Publisher website](https://link.springer.com/chapter/10.1007/978-3-030-78270-2_1)
 
-- Lyndal Wellard-Cole, Alyse Davies, Juliana Chen, Jisu Jung, Kim B. Bente, Judy Kay, Wendy L. Watson, Clare Hughes, Anna Rangan, Kalina Yacef, Irena Koprinska, Kathy Chapman, Nim Ting Wong, Luke Gemming, Cliona Ni Mhurchu, Adrian Bauman and Margaret Allman-Farinelli,  
-[The Contribution of Foods Prepared Outside the Home to the Diets of 18- to 30-Year-Old Australians: The MYMeals Study]  
-(https://www.mdpi.com/2072-6643/13/6/1761)  
-Nutrients 2021, 13, 1761.  
-Open Access:
-[Publisher website](https://doi.org/10.3390/nu13061761) 
+- Judy Kay.   
+Invited Keynote Abstract: [The Case for Scrutable, Personal, Long-Term User Models for Information Retrieval.]
+(https://www.dropbox.com/s/xh3hfr7hmgyccol/2021_keynote_chiir01k-kayA.pdf?dl=0)
+n Proceedings of the 2021 Conference on Human Information Interaction and Retrieval, pp. 1-2. 2021.
+[Publisher website](https://dl.acm.org/doi/abs/10.1145/3406522.3444755?casa_token=_9c7yo92aa8AAAAA:Nk4t_nPVGJiauQ0w5tbhtdy_epwIg8qhCHEW_DqiyvU-5G3SYmO5z69hpaWeAEOg_y0XsoSL8-2bBQ)
+
+- Daniel A Epstein, Parisa Eslambolchilar, Judy Kay, Jochen Meyer, and Sean A. Munson.   
+[Opportunities and challenges for long-term tracking.] 
+(https://www.dropbox.com/s/wvtlgtxdvzgb31m/2021-Epstein_chapter.pdf?dl=0)      
+Advances in longitudinal HCI research (2021): 177-206.  
+[Publisher website - Open Access](https://link.springer.com/chapter/10.1007/978-3-030-67322-2_9)
+
+- Alan Fekete, Judy Kay and Uwe Röhm,  
+[A Data-centric Computing Curriculum for a Data Science Major]
+(https://doi.org/10.1145/3408877.3432457),  
+Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE),
+Association for Computing Machinery, pp 865–871.  
+[Preprint](https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0) |
+[Publisher website](https://doi.org/10.1145/3408877.3432457)  
+
+- Anna Janssen, Stella Talic, Dragan Gasevic, Judy Kay, and Tim Shaw. 
+[Exploring the Intersection Between Health Professionals’ Learning and eHealth Data: Protocol for a Comprehensive Research Program in Practice Analytics in Health Care.]
+(https://www.researchprotocols.org/2021/12/e27984/)
+JMIR Research Protocols 10, no. 12 (2021): e27984.
+[Publisher website - Open Access](https://www.researchprotocols.org/2021/12/e27984/)
+
 
 - Ilona Juraskova, Rebekah Laidsaar-Powell, Rachael Keast, Penelope Schofield, Daniel SJ Costa, Judy Kay, Sandra Turner, Bogda Koczwara, Christobel Saunders, Michale Jefford, Patsy Yates, Frances Boyle, Kate White, Annie Miller, Rachael L Morton, Zoe Butt and Phyllis Butow.  
 [eTRIO trial: study protocol of a randomised controlled trial of online education modules to facilitate effective family caregiver involvement in oncology.] 
@@ -65,6 +91,12 @@ Open Access:
 Proceedings of the International Conference on Artificial Intelligence in Education, AIED 2021.  
 [Preprint](https://www.dropbox.com/s/b1bftqijrc8hib2/2021_AIED_Keynote_scrutability_and_AIED_Vision.pdf?dl=0)
 
+- Judy Kay, Tsvi Kuflik, and Michael Rovatsos.    
+[Transparency by Design (Dagstuhl Seminar 21231).]
+(https://www.dropbox.com/s/dcvjpahhuxzwryx/2021-Kay-Kuflik-Rovatsos-Dagstuhl.pdf?dl=0)   
+In Dagstuhl Reports, vol. 11, no. 5. Schloss Dagstuhl-Leibniz-Zentrum für Informatik, 2021.   
+[Publisher website](https://drops.dagstuhl.de/opus/volltexte/2021/15568/)
+
 - Judy Kay and Bob Kummerfeld,  
 [PUMPT: an e-Textbook platform based on a Personal User Model for Learning]
 (https://www.dropbox.com/s/1b5qppr6nhve4hw/2021_AIED_Intelligent_Textbooks.pdf?dl=0)  
@@ -76,18 +108,38 @@ at International Conference on Artificial Intelligence in Education [(AIED’202
 [Online proceedings]
 (http://ceur-ws.org/Vol-2895/) 
 
+- Danny Y.T. Liu, Natasha Arthars, Nabeel M. Khan, Christopher Pidd and Judy Kay.  
+[Diffusion and co-creation: Getting faculty on board a learning analytics platform to personalize student engagement]
+(https://www.dropbox.com/s/u850x97cw8zvj8w/2021-Liu-LAK21_diffusion_co-creation.pdf?dl=0)  
+Companion Proceedings 11th International Conference on Learning Analytics & Knowledge (LAK21)  
+[Preprint](https://www.dropbox.com/s/u850x97cw8zvj8w/2021-Liu-LAK21_diffusion_co-creation.pdf?dl=0)
 
+- Jochen Meyer, Cathal Gurrin, Blaine Price, Judy Kay, and Ramesh Jain.   
+[Editorial: Long-term self-tracking for life-long health and well-being.]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8738079/)  
+Frontiers in Digital Health 3 (2021).  
+[Publisher website](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8738079/)
 
-- Alan Fekete, Judy Kay and Uwe Röhm,  
-[A Data-centric Computing Curriculum for a Data Science Major]
-(https://doi.org/10.1145/3408877.3432457),  
-Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE),
-Association for Computing Machinery, pp 865–871.  
-[Preprint](https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0) |
-[Publisher website](https://doi.org/10.1145/3408877.3432457)  
+- Lyndal Wellard-Cole, Alyse Davies, Juliana Chen, Jisu Jung, Kim B. Bente, Judy Kay, Wendy L. Watson, Clare Hughes, Anna Rangan, Kalina Yacef, Irena Koprinska, Kathy Chapman, Nim Ting Wong, Luke Gemming, Cliona Ni Mhurchu, Adrian Bauman and Margaret Allman-Farinelli,  
+[The Contribution of Foods Prepared Outside the Home to the Diets of 18- to 30-Year-Old Australians: The MYMeals Study]  
+(https://www.mdpi.com/2072-6643/13/6/1761)  
+Nutrients 2021, 13, 1761.  
+Open Access:
+[Publisher website](https://doi.org/10.3390/nu13061761) 
 
+- Alan Yung, Judy Kay, Philip Beale, Kathryn A. Gibson, and Tim Shaw.    
+[Computer-Based Decision Tools for Shared Therapeutic Decision-making in Oncology: Systematic Review.]
+(https://cancer.jmir.org/2021/4/e31616)   
+JMIR cancer 7, no. 4 (2021): e31616.   
+[Publisher website - Open Access](https://cancer.jmir.org/2021/4/e31616)
 
 # 2020
+
+- Anna Janssen, Candice Donnelly, Judy Kay, Peter Thiem, Aldo Saavedra, Nirmala Pathmanathan, Elisabeth Elder, Phuong Dinh, Masrura Kabir, Kirsten Jackson, Paul Harnett and Tim Shaw.    
+[Developing an intranet-based lymphedema dashboard for breast cancer multidisciplinary teams: design research study.]
+(https://www.jmir.org/2020/4/e13188/)   
+Journal of Medical Internet Research 22, no. 4 (2020): e13188.   
+[Publisher website - Open Access](https://www.jmir.org/2020/4/e13188/)
 
 - Jisu Jung, Lyndal Wellard-Cole, Colin Cai, Irena Koprinska, Kalina Yacef, Margaret Allman-Farinelli and Judy Kay,  
 [Foundations for Systematic Evaluation and Benchmarking of a Mobile Food Logger in a Large-scale Nutrition Study]
@@ -96,6 +148,41 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 4(2).
 [Preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0) |
 [Publisher website] (https://doi.org/10.1145/3397327)
 
+- Judy Kay, Diego Zapata-Rivera, and Cristina Conati.   
+[The GIFT of scrutable learner models: why and how.]
+(https://www.dropbox.com/s/obgbbawm4lfmkqd/2020-CH_Kay_Scrutable.pdf?dl=0)
+Design Recommendations for Intelligent Tutoring Systems 8 (2020): 25-40.
+[Preprint] (https://www.dropbox.com/s/obgbbawm4lfmkqd/2020-CH_Kay_Scrutable.pdf?dl=0) |
+[Google Books](https://www.google.com.au/books/edition/Design_Recommendations_for_Intelligent_T/TxY6EAAAQBAJ?hl=en&gbpv=1&dq=THE+GIFT+OF+SCRUTABLE+LEARNER+MODELS:+WHY+AND+HOW&pg=PA25&printsec=frontcover)
+
+
+- Judy Kay, Vasile Rus, Diego Zapata-Rivera, and Paula Durlach.   
+[Open learner model visualizations for contexts where learners think fast or slow.]  
+(https://www.dropbox.com/s/gl1b7x6tvboclwr/2020-ch-Kay-OLM-Fast-Slow.pdf?dl=0)  
+Design Recommendations for Intelligent Tutoring Systems (2020): 125.  
+[Preprint] (https://www.dropbox.com/s/gl1b7x6tvboclwr/2020-ch-Kay-OLM-Fast-Slow.pdf?dl=0) |
+[Publisher website] (https://gifttutoring.org/attachments/download/3874/DesignRecommendationsforITSs_Volume8_DataVisualizationBook_Final.pdf#page=129)
+
+
+- Jochen Meyer, Judy Kay, Daniel A. Epstein, Parisa Eslambolchilar, and Lie Ming Tang.   
+[A life of data: characteristics and challenges of very long term self-tracking for health and wellness.]      
+(https://www.dropbox.com/s/b7nz1m68spk5ort/2020-Meyer-ACM%20Healthcarep.pdf?dl=0)
+ACM Transactions on Computing for Healthcare 1, no. 2 (2020): 1-4.  
+[Publisher website - Open Access] (https://dl.acm.org/doi/10.1145/3373719)
+
+- Callum Parker, Martin Tomitsch, Nigel Davies, Nina Valkanova, and Judy Kay.    
+[Foundations for designing public interactive displays that provide value to users.]
+(https://doi.org/10.1145/3313831.3376532)   
+In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-12. 2020.   
+[Publisher website] (https://doi.org/10.1145/3313831.3376532)
+
+- Waheeb Yaqub, Micah Goldwater and Judy Kay.     
+[Bias-aware design of interfaces to overcome junk science]
+(https://www.dropbox.com/s/0af5afve2evm57p/2020-Yaqub_CHI-workshop.pdf?dl=0)  
+In Workshop on Detection and Design for Cognitive Biases in People and Computing Systems, vol. 1, no. 1. 2020. (In conjunction with CHI 2020)      
+[Preprint] (https://www.dropbox.com/s/0af5afve2evm57p/2020-Yaqub_CHI-workshop.pdf?dl=0) |
+[Workshop website] (http://critical-media.org/cobi/)
+
 - Soojeong Yoo, Phillip Gough and Judy Kay,  
 [Embedding a VR Game Studio in a Sedentary Workplace: Use, Experience and Exercise Benefits.]
 (https://doi.org/10.1145/3313831.3376371),  
@@ -103,6 +190,13 @@ Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CH
 [Preprint] (https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0) |
 [Publisher website] (https://doi.org/10.1145/3313831.3376371) |
 [video] (https://dl.acm.org/doi/abs/10.1145/3313831.3376371)
+
+- Diego Zapata-Rivera, Arthur C. Graesser, Judy Kay, Xiangen Hu, and Scott J. Ososky.   
+[Visualization implications for the validity of intelligent tutoring systems.]
+(https://www.dropbox.com/s/4xxs8mwtmyxwf39/2020-CH-Zapata-Visualization.pdf?dl=0)  
+Design recommendations for intelligent tutoring systems (2020): 61.  
+[Preprint] (https://www.dropbox.com/s/4xxs8mwtmyxwf39/2020-CH-Zapata-Visualization.pdf?dl=0) |
+[Google Books](https://www.google.com.au/books/edition/Design_Recommendations_for_Intelligent_T/TxY6EAAAQBAJ?hl=en&gbpv=1&dq=Visualization+Implications+for+the+Validity+of+ITS&pg=PA61&printsec=frontcover)
 
 # 2019
 
@@ -173,6 +267,15 @@ In Proceedings of the 25th Conference on User Modeling, Adaptation and Personali
 [Preprint] (https://www.dropbox.com/s/x7o2g6zv45xuv36/2017_UMAP_Yoo_long-term-model.pdf?dl=0) |
 [Publisher website] (https://dl.acm.org/doi/abs/10.1145/3079628.3079679?casa_token=JbylOtxvszIAAAAA:yUSe-ZjTP5fStKp7syT20qz0c_9kABvB3MhCY2YOhjUxgK-_kGWiLnoSv5O6-j9aMDWH04fY5OUuiw)
 
+# 2015
+
+- Ronny Cook, Cook, Ronny, Judy Kay, and Bob Kummerfeld.   
+[MOOClm: User Modelling for MOOCs]
+(https://www.dropbox.com/s/irxrbn7x4q1gv7y/2015_umap_MOOClm.pdf?dl=0)   
+In International conference on user modeling, adaptation, and personalization (pp. 80-91). Springer, Cham.   
+[Preprint] (https://www.dropbox.com/s/irxrbn7x4q1gv7y/2015_umap_MOOClm.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-319-20267-9_7)
+
 # 2014
 
 -  Debjanee Barua, Judy Kay, Bob Kummerfeld, and Cécile Paris.   
@@ -182,6 +285,16 @@ In International Conference on User Modeling, Adaptation, and Personalization (p
 [Preprint] (https://www.dropbox.com/s/n5pph3moveleug1/2014_Barua_modelling_goals.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/978-3-319-08786-3_1)
 
+
+
+# 2013
+
+- Rainer Wasinger, James Wallbank, Luiz Pizzato, Judy Kay, Bob Kummerfeld, Matthias Böhmer & Antonio Krüger.   
+[Scrutable User Models and Personalised Item Recommendation in Mobile Lifestyle Applications]
+(https://www.dropbox.com/s/3ewqpgulr5ukbfp/2013_UMAP_WasingerWallbank.pdf?dl=0)   
+In International Conference on User Modeling, Adaptation, and Personalization (pp. 77-88). Springer, Berlin, Heidelberg.   
+[Preprint] (https://www.dropbox.com/s/3ewqpgulr5ukbfp/2013_UMAP_WasingerWallbank.pdf?dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-38844-6_7)   
 
 
 # 2011
@@ -351,7 +464,7 @@ In International Conference on Adaptive Hypermedia and Adaptive Web-Based System
 
 - Judy Kay.   
 Invited Keynote: [Lies, damned lies and stereotypes: pragmatic approximations of users]
-(https://www.dropbox.com/s/cuziqultabf7ty1/1994_invited_keynote_UM.pdf?dl=0)
+(https://www.dropbox.com/s/cuziqultabf7ty1/1994_invited_keynote_UM.pdf?dl=0)   
 User Modeling, 1994
 
 - Ronny Cook and Judy Kay.   
