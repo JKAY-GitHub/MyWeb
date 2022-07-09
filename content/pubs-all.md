@@ -212,7 +212,7 @@ British Journal of Educational Technology, Sept 2019, 50(6) pp 2871-2884.
 (https://doi.org/10.1145/3328928)  
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 3(2).  
 [Preprint] (https://www.dropbox.com/s/wqz4npvkki2bdsy/2019_IMWUT_Lim_Nation_Walk.pdf?dl=0) |
-[Publisher website] (https://doi.org/10.1145/3328928) 
+[Publisher website] (https://doi.org/10.1145/3328928)  | Distinguished Paper Award
 
 # 2018
 
@@ -438,7 +438,7 @@ In International Conference on User Modeling, Adaptation, and Personalization, p
 # 2006
 
 - Judy Kay.   
-[Scrutable adaptation: Because we can and must.]
+Invited Keynote: [Scrutable adaptation: Because we can and must.]
 (https://www.dropbox.com/s/kr605wvkgis3vl1/2006-AH-keynote-scrutable-adaptation.pdf?dl=0)  
 In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems, pp. 11-19. Springer, Berlin, Heidelberg, 2006.  
 [Publisher website] (https://link.springer.com/chapter/10.1007/11768012_2) |

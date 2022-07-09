@@ -37,6 +37,34 @@ count = 5
 
 +++
 
+* 20 - 23 Nov 2022, 
+General Chair (with Craig Anslow) 
+[Interactive Surfaces and Spaces (ISS 2022)]
+(https://conf.researchr.org/home/iss-2022),
+hybrid in Victoria University of Wellington, New Zealand
+
+* 13 Sep 2022, 
+Program Committee and speaker:
+[NUTEL - Nudges in Technology-Enhanced Learning]
+(https://sites.google.com/view/nutel2022), 
+in conjunction with ECTEL 2022.
+
+* 18 - 21 Jul, 2022, 
+[Invited speaker]
+(https://taspects.hevra.haifa.ac.il/home):
+Temporal Aspects in User Modeling, Research  Workshop of the  Israel Science Foundation
+
+* 17 - 31 Jul 2022, 
+[AIED 2022: The 23rd International Conference on Artificial Intelligence in Education (AIED2022)]
+(https://aied2022.webspace.durham.ac.uk/)
+hybrid in Durham University, UK.
+
+
+* 13 - 15 Jul 2022, 
+[Invited Keynote]
+(https://www.hkmu.edu.hk/icoie/speakers/):
+[9th International Conference on Open and Innovative Education (ICOIE 2022) - Keynotes speakers]
+(https://www.hkmu.edu.hk/icoie/)
 
 * 21-26 June, 2021, 
 [User Modeling, Adaptation and Personalization, UMAP 2021]
