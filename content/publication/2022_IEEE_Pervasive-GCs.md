@@ -42,13 +42,13 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1145/3313831.3376371"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/9875371"
 url_preprint = "https://www.dropbox.com/s/ndjued9d5dmqij0/2022_IEEE_Pervasive-Judy-Kay-final-version.pdf?dl=0"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://dl.acm.org/doi/abs/10.1145/3313831.3376371"
+url_video = ""
 url_poster = ""
 url_source = ""
 
@@ -66,7 +66,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "2022-IEEE-Pervasive-Computing-Why.png"
-caption = "VR game studio in a sedentary workplace"
+caption = "Lifelong, life-wide education across diverse contexts"
 
 +++
 
