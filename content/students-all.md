@@ -174,6 +174,13 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Abraham Elias (2022) [KiT: A Home Situated Communication System Promoting Social Connectedness In The Elderly](https://www.dropbox.com/s/xe80l8nvet6ljdv/2022-Abraham-Elias.pdf?dl=0)
+
+*  [Changhao Li - Owen](https://www.linkedin.com/in/owen-changhao-li/) (2022) [Towards Understanding Usability Issues of WeChat and Help Chinese Elders Keep in Touch with Their Family]
+(https://www.dropbox.com/s/nkf5au4rsjw97rl/2022-Changhao-Li.pdf?dl=0)
+
+
+
 * Freya Singh (2022) [Protocol For the Evaluation of Information Visualisations with Data Uncertainty: Case Study in COVID-19 Vaccine Effectiveness](https://www.dropbox.com/s/qtsgaof0n1yuaub/2022-Freya-Singh.pdf?dl=0)
 
 * Matthew Phang (2022)
