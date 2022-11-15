@@ -176,13 +176,16 @@ Ego: an expandable goal oriented tutoring system.
 
 * Hannah Conlon (2022) [Word-A-Day: A Prototype for Lightweight Communication between Elders and their Closest Family and Friends.](https://www.dropbox.com/s/eebmalcl8us048s/2022_Hannah_Conlon_Thesis_Complete.pdf?dl=0)
 
+* DYLAN KROFT (2022) [FamilyConnect: A Keep-in-Touch Solution for Adult Children and Their Elderly Parents](https://www.dropbox.com/s/2c1p5iomj0jtqym/2022-Dylan-Kroft.pdf?dl=0)
 
 * Abraham Elias (2022) [KiT: A Home Situated Communication System Promoting Social Connectedness In The Elderly.](https://www.dropbox.com/s/xe80l8nvet6ljdv/2022-Abraham-Elias.pdf?dl=0)
 
 *  [Changhao Li](https://www.linkedin.com/in/owen-changhao-li/) (2022) [Towards Understanding Usability Issues of WeChat and Help Chinese Elders Keep in Touch with Their Family.]
 (https://www.dropbox.com/s/nkf5au4rsjw97rl/2022-Changhao-Li.pdf?dl=0)
 
-* Matthew Merkas (2022) [Keep In Touch: An inter-generational voice communication platform.] (https://www.dropbox.com/s/83tqz91qylfi249/2022-Matthew-Merkas.pdf?dl=0)
+* Matthew Merkas (2022) [Keep In Touch: An inter-generational voice communication platform.] (https://www.dropbox.com/s/83tqz91qylfi249/2022-Matthew-Merkas.pdf?dl=0) 
+| [Demo](https://www.dropbox.com/s/2wpsfr1vnvor1x7/480222763_demo.mp4?dl=0) 
+| [Slides](https://www.dropbox.com/s/8qer1qj30xotn4a/480222763_presentationslides.pdf?dl=0)
 
 
 
