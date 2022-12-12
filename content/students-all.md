@@ -187,6 +187,7 @@ Ego: an expandable goal oriented tutoring system.
 | [Demo](https://www.dropbox.com/s/2wpsfr1vnvor1x7/480222763_demo.mp4?dl=0) 
 | [Slides](https://www.dropbox.com/s/8qer1qj30xotn4a/480222763_presentationslides.pdf?dl=0)
 
+* Tsai Jen Wu (2022) [Iris: Voice Assistants As a Means to Keep In Touch For Older People](https://www.dropbox.com/s/2rpo0qwdt3wlquo/2022_Jenny_Wu.pdf?dl=0)
 
 
 * Freya Singh (2022) [Protocol For the Evaluation of Information Visualisations with Data Uncertainty: Case Study in COVID-19 Vaccine Effectiveness](https://www.dropbox.com/s/qtsgaof0n1yuaub/2022-Freya-Singh.pdf?dl=0)
