@@ -69,10 +69,12 @@ Scrutable is human-centred, describing what people do, -- by contrast, eXplainab
 
 - Interfaces and infrastructure for life-wide and life-long learning from long term data. This has several threads
 	- Open Learner Models (OLMs) - interfaces onto learning data to support self-regulated learning powered by long term data;
+	- teaching systems: e-textbook of the future, teaching system for communication in oncology by the TRIO, clinician-patient-carer.
 	- interfaces for long term personal data from wearables, such as smart watches, appliances and customised hardware to help people tackle long term personal goals for health and wellness;
 	- dashboards for medical clinical indicator data to inform medical teams' professional development;
 	- tackling truth decay by creating personalised interfaces that enable people to judge the trustworthiness of online science news;
-	- teaching systems: e-textbook of the future, teaching system for communication in oncology by the TRIO, clinician-patient-carer.
 
 All of these build on aspects of scutability and enabling people to harness their long term data to support learning.
 
+Honours thesis projects for Semester 1 2023: 
+Students will work as a team on different aspects of 
