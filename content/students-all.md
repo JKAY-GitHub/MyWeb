@@ -174,6 +174,18 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Rachel Andersen (2023) [ EarlyAccess: An Educational System with Scaffolding for Accessible Design with Adee ]( https://www.dropbox.com/scl/fi/gt1fcu57y8fsid66kdjda/2023-Rachel_Andersen_Honours_Thesis.pdf?rlkey=t0e8rl8vp1rq1iz1yo8bc3h7i&dl=0)
+
+* Bronte Lee (2023) [ How-Did-I-Track? Sensemaking of Long-Term Physical Activity Data ]( https://www.dropbox.com/scl/fi/nexu1d3f6y2x4t7tu40dt/2023-Bronte-Lee-Honours-Thesis.pdf?rlkey=h67hxuo621k5tx773kbbgy81d&dl=0)
+
+* Hilda Nguyen (2023) [ My Fitness Journey: An integrated dashboard and chatbot interface for facilitating reflection on long-term step data ]( https://www.dropbox.com/scl/fi/cioby3heqm9ql8wsbsm3w/2023-Hilda-Nguyen.pdf?rlkey=vhs0vmul9fpt8068hbr7kw7xw&dl=0)
+
+* Eugene Ward (2023) [ Minding the gaps: visualising uncertainty in long-term step count data to facilitate user reflection ]( https://www.dropbox.com/scl/fi/d3j0nchv936zq7fhmequm/2023-Eugene_Ward_Final.pdf?rlkey=iur9i3cmyqwwu8phnbs02byvi&dl=0)
+
+* Belinda Wong (2023) [ SelfHealth: Smartphone Guidance for N-of-1 Hypothesis Testing Using Data from Wearable Physical Activity Trackers ]( https://www.dropbox.com/scl/fi/ntkqn65lqooh9vma57wnk/2023_Belinda_Wong_Thesis.pdf?rlkey=aufycpshe8uq431vs5r34vhg7&dl=0)
+
+* Shiyu Wu (2023) [ Leveraging wearable technology to enable people to monitor their physical activity over the long term ]( https://www.dropbox.com/scl/fi/c1x2xx5xr7y3dc14gkcis/2023-Shiyu-Wu-final-version-thesis.pdf?rlkey=74za763s3y2wod3dlau6numdx&dl=0)
+
 * Hannah Conlon (2022) [Word-A-Day: A Prototype for Lightweight Communication between Elders and their Closest Family and Friends.](https://www.dropbox.com/s/eebmalcl8us048s/2022_Hannah_Conlon_Thesis_Complete.pdf?dl=0)
 
 * Dylan Kroft (2022) [FamilyConnect: A Keep-in-Touch Solution for Adult Children and Their Elderly Parents](https://www.dropbox.com/s/2c1p5iomj0jtqym/2022-Dylan-Kroft.pdf?dl=0)
