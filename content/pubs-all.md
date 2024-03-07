@@ -21,7 +21,43 @@ preview = true
 
 +++
 
+# 2023
+
+- Chen, YingAn, Judy Kay, and Soojeong Yoo.
+[Feedback and Open Learner Models in Popular Commercial VR Games: A Systematic Review.
+]
+(https://link.springer.com/chapter/10.1007/978-3-031-36272-9_44
+)   
+International Conference on Artificial Intelligence in Education. Springer, Cham, 2023.
+[Preprint](https://www.dropbox.com/scl/fi/zybe1rjvodoqw7omjx86g/2023-AIED-YingAn-Chen-VR-games-Review.pdf?rlkey=r1ol4xauktb3zh7fvy50ndkqr&dl=0
+) 
+
+
+
 # 2022
+
+
+- Janssen, Anna, Judy Kay, Stella Talic, Martin Pusic, Robert J. Birnbaum, Rodrigo Cavalcanti, Dragan Gasevic, and Tim Shaw. 
+[Electronic Health Records That Support Health Professional Reflective Practice: A Missed Opportunity in Digital Health
+]
+(https://link.springer.com/article/10.1007/s41666-022-00123-0
+)   
+Journal of Healthcare Informatics Research 6, no. 4 (2022): 375-384
+
+- Nassif, Emma, Alyse Davies, Kim B. Bente, Lyndal Wellard-Cole, Jisu Jung, Judy Kay, Clare Hughes, Irena Koprinska, Wendy L Watson, Kalina Yacef, Kathy Chapman, Anna Rangan, Adrian Baumann, Cliona Ni Mhurchu and 	
+Margaret Allman-Farinelli.
+[ The Contribution of Nutrients of Concern to the Diets of 18-to-30-Year-Old Australians from Food Prepared Outside Home Differs by Food Outlet Types: The MYMeals Cross-Sectional Study ]
+(https://doi.org/10.3390/nu14183751)   
+Nutrients 2022, 14(18), 3751.
+[Preprint](https://www.dropbox.com/scl/fi/w1hm5ixeynimufb0wzsdp/2022-Allman-Farinelli-Nutrients.docx?rlkey=d146umizpqqn7be5i1szh8hpm&dl=0) 
+
+- Judy Kay.   
+[Grand Challenges for Pervasive Technology to Transform Pervasive Education ]
+(https://medinform.jmir.org/2022/2/e32695)   
+IEEE Pervasive Computing, 21(3), pp.32-41.
+[Preprint](https://www.dropbox.com/s/ndjued9d5dmqij0/2022_IEEE_Pervasive-Judy-Kay.pdf?dl=0) |
+[Publisher website]( https://dl.acm.org/doi/10.1109/MPRV.2022.3199104)  
+
 
 - Bernard Bucalon, Tim Shaw, Kerri Brown, and Judy Kay.   
 [State-of-the-art Dashboards on Clinical Indicator Data to Support Reflection on Practice: Scoping Review]
