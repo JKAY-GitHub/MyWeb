@@ -651,3 +651,9 @@ In International Conference on User Modeling, pp. 198-202. Springer, Berlin, Hei
 (https://www.dropbox.com/s/bbbexz4zsoabt5i/1990-UM-Kay-toolkit.pdf?dl=0)   
 Second International User Modelling Workshop, 1990. pp. 251-261.   
 [Preprint 1989 Tech report] (https://www.dropbox.com/s/bbbexz4zsoabt5i/1990-UM-Kay-toolkit.pdf?dl=0)
+
+# 1989
+- Judy Kay and Bob Kummerfeld.     
+[C Programming in a UNIX Environment]
+(https://www.dropbox.com/scl/fi/bjrm98hwf9dxn8a8vxmrn/1988_KandK_C_Book.pdf?rlkey=0ka7n7y1q9zhrc4dcg6zpejzo&dl=0)   
+Addison-Wesley, 1989
