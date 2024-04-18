@@ -321,16 +321,66 @@ In International Conference on User Modeling, Adaptation, and Personalization (p
 [Preprint] (https://www.dropbox.com/s/n5pph3moveleug1/2014_Barua_modelling_goals.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/978-3-319-08786-3_1)
 
+-  Andrew Clayphan, Judy Kay & Armin Weinberger.      
+[ScriptStorm: scripting to enhance tabletop brainstorming.]   
+(https://link.springer.com/article/10.1007/s00779-013-0746-z)   
+Personal and Ubiquitous Computing, 18, 1433-1453.   
+[Preprint] (https://www.dropbox.com/scl/fi/8zbc6g0h7k1pynfdfpnt8/2014_Clayphan_PUC.pdf?rlkey=wi5kraxj6qmrvakfxaqf2kao9&dl=0)    |
+[Publisher website] (https://link.springer.com/article/10.1007/s00779-013-0746-z)
+
+-  Roberto Martinez-Maldonado, Andrew Clayphan, Christopher Ackad & Judy Kay.   
+[Multi-touch Technology in a Higher-Education Classroom: Lessons In-The-Wild.]   
+(https://www.dropbox.com/scl/fi/txotuwffy89v3qsc7hxqc/2014_c_OzChi_classroom.pdf?rlkey=virkqs97v2twe368s14xkz91u&dl=0)   
+In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (OzCHI '14). Association for Computing Machinery, New York, NY, USA, 220–229.   
+[Preprint] (https://www.dropbox.com/scl/fi/txotuwffy89v3qsc7hxqc/2014_c_OzChi_classroom.pdf?rlkey=virkqs97v2twe368s14xkz91u&dl=0)   
+[Publisher website] (https://doi.org/10.1145/2686612.2686647)
 
 
 # 2013
 
-- Susan Bull, and Judy Kay.    
-[Open learner models as drivers for metacognitive processes.]
-(https://www.dropbox.com/s/sgdzd6w3m1oeefe/2013_Bull_Kay_OLM_metacog_author.pdf?dl=0)   
+- Debjanee Barua, Judy Kay & C ́ecile Paris.    
+[Viewing and Controlling Personal Sensor Data: What do Users Want?]     
+(https://link.springer.com/chapter/10.1007/978-3-642-37157-8_4)   
+Barua, D., Kay, J., & Paris, C. (2013, April). Viewing and controlling personal sensor data: what do users want?. In International Conference on Persuasive Technology (pp. 15-26). Berlin, Heidelberg: Springer Berlin Heidelberg.
+[Preprint] (https://www.dropbox.com/scl/fi/osyvkhgne6p4qf2dt1nkr/2013_Barua_Persuasive.pdf?rlkey=d4us4lnkz343nnux8zdifq030&dl=0) |
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-642-37157-8_4)
+
+- Susan Bull & Judy Kay.    
+[Open learner models as drivers for metacognitive processes.] 
+(https://link.springer.com/chapter/10.1007/978-1-4419-5546-3_23) 
 In International handbook of metacognition and learning technologies, pp. 349-365. Springer, New York, NY, 2013.   
 [Preprint] (https://www.dropbox.com/s/sgdzd6w3m1oeefe/2013_Bull_Kay_OLM_metacog_author.pdf?dl=0) |
 [Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/978-1-4419-5546-3_23)
+
+- Richard Gluga, Judy Kay, Raymond Lister, Simply Simon, Michael Charleston, James Harland, & Donna Teague.    
+[A conceptual model for reflecting on expected learning vs. demonstrated student performance.]      
+(https://www.dropbox.com/scl/fi/ldemh13jjelhrqspfe5vm/2013_c_ACE_GlugaEtAlaConceptual.pdf?rlkey=hsei8tqa2tbplugslnetl2y1i&dl=0)   
+15th Australasian Computer Education Conference (ACE 2013), Adelaide, South Australia, January- February 2013. Conferences in Research and Practice in Information Technology (CRPIT), Vol. 136.      
+[Preprint] (https://www.dropbox.com/scl/fi/ldemh13jjelhrqspfe5vm/2013_c_ACE_GlugaEtAlaConceptual.pdf?rlkey=hsei8tqa2tbplugslnetl2y1i&dl=0)
+
+- Judy Kay & Bob Kummerfeld.    
+[Creating personalised systems that people can scrutinise and control: drivers, principles and experience.]   
+(https://dl.acm.org/doi/abs/10.1145/2395123.2395129?casa_token=loIUhe5w9cIAAAAA:FiXHWFoWDUoeXBWes1c1vznkO2TWVgwNm7rLSBi47V96Xs9mp2rGO32B8K3WodlRMgpMRqPjB4KBLGg)
+ACM Transactions on Interactive Intelligent Systems (TiiS), 2(4), 1-42.   
+[Preprint] (https://www.dropbox.com/s/ly0f45uvwe027b3/2013_TiiS.pdf?dl=0)
+|
+[Publisher website - Open Access] (https://dl.acm.org/doi/abs/10.1145/2395123.2395129?casa_token=loIUhe5w9cIAAAAA:FiXHWFoWDUoeXBWes1c1vznkO2TWVgwNm7rLSBi47V96Xs9mp2rGO32B8K3WodlRMgpMRqPjB4KBLGg)
+
+- Judy Kay, Peter Reimann, Elliot Diebold & Bob Kummerfeld.    
+[MOOCs: So many learners, so much potential...]   
+(https://www.dropbox.com/scl/fi/ivz42ie0n5sp4aqq3i9z5/2013_IEEE_AIED_MOOC_author.pdf?rlkey=1cyqum27cag9ymmuro6yuqy9u&dl=0)   
+IEEE Intelligent systems, 28(3), 70-77.    
+[Preprint] (https://www.dropbox.com/scl/fi/ivz42ie0n5sp4aqq3i9z5/2013_IEEE_AIED_MOOC_author.pdf?rlkey=1cyqum27cag9ymmuro6yuqy9u&dl=0)
+|
+[Publisher website] (https://ieeexplore.ieee.org/abstract/document/6588857?casa_token=ChSMmuy_HcIAAAAA:NNgpfIwLXTAHDUiJ9_NLQQFfANJczof-owrAgJcMY470PqsuNQcViw8OF6wOh35Mae8eutVuChE)
+
+- Roberto Martinez-Maldonado, Yannis Dimitriadis, Alejandra Martinez-Monés, Judy Kay & Kalina Yacef.   
+[Capturing and analysing verbal and physical collaborative learning interactions at an enriched interactive tabletop]   
+(https://link.springer.com/article/10.1007/s11412-013-9184-1)    
+International Journal of Computer-Supported Collaborative Learning, 8, 455-485    
+[Preprint] (https://www.dropbox.com/scl/fi/hw2ym2jpxmgzyh5u22l7m/2013_IJCSCL_Martinez.pdf?rlkey=xdt6mdwrz8dsj0x7vlzhhr6nh&dl=0)
+|
+[Publisher website] (https://link.springer.com/article/10.1007/s11412-013-9184-1)
 
 - Rainer Wasinger, James Wallbank, Luiz Pizzato, Judy Kay, Bob Kummerfeld, Matthias Böhmer & Antonio Krüger.   
 [Scrutable User Models and Personalised Item Recommendation in Mobile Lifestyle Applications]
