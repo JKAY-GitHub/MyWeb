@@ -312,6 +312,40 @@ In International conference on user modeling, adaptation, and personalization (p
 [Preprint] (https://www.dropbox.com/s/irxrbn7x4q1gv7y/2015_umap_MOOClm.pdf?dl=0) |
 [Publisher website] (https://link.springer.com/chapter/10.1007/978-3-319-20267-9_7)
 
+- Roberto Martinez-Maldonado, Abelardo Pardo, Negin Mirriahi, Kalina Yacef, Judy Kay, and Andrew Clayphan.   
+[The LATUX workflow: designing and deploying awareness tools in technology-enabled learning settings.]
+(https://doi.org/10.1145/2723576.2723583)   
+In Proceedings of the Fifth International Conference on Learning Analytics And Knowledge (LAK '15). Association for Computing Machinery, New York, NY, USA, 1–10.    
+[Preprint] (https://www.dropbox.com/scl/fi/ajtd9qs3qavbklb1rrfzu/2015_c_LAK_design.pdf?rlkey=mbzafen3f0bkedzu6a78k9br1&dl=0)  |
+[Publisher website] (https://doi.org/10.1145/2723576.2723583) 
+
+- Roberto Martinez-Maldonado, Roberto, Andrew Clayphan, and Judy Kay.   
+[Deploying and visualising teacher’s scripts of small group activities in a multi-surface classroom ecology: A study in-the-wild.]   
+(https://link.springer.com/article/10.1007/s10606-015-9217-6)   
+Computer Supported Cooperative Work (CSCW) 24 (2015): 177-221.   
+[Preprint] (https://www.dropbox.com/scl/fi/k7do0zpn2fs4dsgyzte73/2015_JCSCW.pdf?rlkey=ez1xpdwaqoblqr5vyjsi99mqt&dl=0) | [Publisher website] (https://link.springer.com/article/10.1007/s10606-015-9217-6)   
+
+- Roberto Martinez-Maldonado, Kalina Yacef, & Judy Kay.   
+[TSCL: A conceptual model to inform understanding of collaborative learning processes at interactive tabletops.]   
+(https://doi.org/10.1016/j.ijhcs.2015.05.001)   
+[Publisher website] (International Journal of Human-Computer Studies, 83, 62-82.   
+[Preprint] (https://www.dropbox.com/scl/fi/cipbb8f2krccvkcb8iunb/2015_j_IJHCS_TSCL.pdf?rlkey=s6hlzlphcley1fzaj8c91el4t&dl=0) | [Publisher website] (https://doi.org/10.1016/j.ijhcs.2015.05.001)
+
+- Farahnaz Yekeh, Judy Kay, Bob Kummerfeld, Lie Ming Tang, and Margaret A. Allman-Farinelli.   
+[Can SAL Support Self Reflection for Health and Nutrition?]   
+(https://doi.org/10.1145/2838739.2838752)   
+In Proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction (OzCHI '15). Association for Computing Machinery, New York, NY, USA, 134–141.   
+[Preprint] (https://www.dropbox.com/scl/fi/bz5k87lpzpsf1zp5pkhpc/2015_c_OZCHI_SAL.pdf?rlkey=yemzsqxmfb7xzfn7e61z6rm2q&dl=0) |
+[Publisher website] (https://doi.org/10.1145/2838739.2838752)  
+
+- Kalina Yacef, Sam Holden, Judy Kay & Josiah Poon.   
+[Workflow-Based Personalised Document Delivery]   
+(https://www.learntechlib.org/p/5816/)   
+In International Journal on E-Learning (Vol. 4, No. 1, pp. 131-148). Association for the Advancement of Computing in Education (AACE).
+[Preprint](https://www.dropbox.com/s/n4slsua1vbvpig9/2015-Sam-Holden_JITT.pdf?dl=0) |
+[Publisher website] (https://www.learntechlib.org/p/5816/)
+
+
 # 2014
 
 -  Debjanee Barua, Judy Kay, Bob Kummerfeld, and Cécile Paris.   
@@ -334,6 +368,20 @@ Personal and Ubiquitous Computing, 18, 1433-1453.
 In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (OzCHI '14). Association for Computing Machinery, New York, NY, USA, 220–229.   
 [Preprint] (https://www.dropbox.com/scl/fi/txotuwffy89v3qsc7hxqc/2014_c_OzChi_classroom.pdf?rlkey=virkqs97v2twe368s14xkz91u&dl=0)   
 [Publisher website] (https://doi.org/10.1145/2686612.2686647)
+
+- Lie Ming Tang  & Judy Kay.   
+[Gamification: metacognitive scaffolding towards long term goals?]   
+(https://www.dropbox.com/scl/fi/vcfx2ojyarzutsnf9skig/2014_Tang_gamification_umap_PALE.pdf?rlkey=nb0n5lerhs5n53c5zubznh7zm&dl=0)   
+Personalization Approaches in Learning Environments 63 (2014): 65-70.   
+[Preprint.] (https://www.dropbox.com/scl/fi/vcfx2ojyarzutsnf9skig/2014_Tang_gamification_umap_PALE.pdf?rlkey=nb0n5lerhs5n53c5zubznh7zm&dl=0)
+
+-  Martin Tomitsch, Christopher Ackad, Oliver Dawson, Luke Hespanhol, & Judy Kay.   
+[Who cares about the Content? An Analysis of Playful Behaviour at a Public Display.]    
+(https://doi.org/10.1145/2611009.2611016)   
+In Proceedings of The International Symposium on Pervasive Displays (PerDis '14). Association for Computing Machinery, New York, NY, USA, 160–165.   
+[Preprint] (https://www.dropbox.com/scl/fi/719xtpv0nqpz10lykuhos/2014_Perdis_WhoCares.pdf?rlkey=wxmdu6em3ubeiq9j4wt6hg0xi&dl=0)  |
+[Publisher website] (https://doi.org/10.1145/2686612.2686647)
+
 
 
 # 2013
