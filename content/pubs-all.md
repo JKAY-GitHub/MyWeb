@@ -21,16 +21,39 @@ preview = true
 
 +++
 
+# 2024
+
+- Hasindu Kariyawasam, Amashi Niwarthana, Alister Palmer, Judy Kay and Anusha Withana.   
+[Appropriate Incongruity Driven Human-AI Collaborative Tool to Assist Novices in Humorous Content Generation]
+(https://doi.org/10.1145/3640543.3645161)   
+In Proceedings of the 29th International Conference on Intelligent User Interfaces, pp. 650-659.    
+[Preprint]( https://www.dropbox.com/scl/fi/s7f5ulmqyyi3fkzkulgax/2024-IUI-Kariyawasam-Withana-Cartoons.pdf?rlkey=oxle618k09h0i7dwmarpdt3bq&dl=0) |
+[Publisher website] (https://doi.org/10.1145/3640543.3645161)
+
+
+- Rebekah Laidsaar-Powell, Sarah Giunta, Phyllis Butow, Sandra Turner, Daniel Costa, Christobel Saunders, Bogda Koczwara , Judy Kay, Michael Jefford, Penelope Schofield, Frances Boylee, Patsy Yates, Kate White, Puma Sundaresan, Suganthy Varadara & Ilona Juraskovaa.   
+[An online intervention to improve oncology health professional self-efficacy in communicating with carers: Hybrid effectiveness-implementation evaluation of the eTRIO program]
+(https://www.sciencedirect.com/science/article/pii/S0738399124001186)    
+Patient Education and Counseling, Volume 124, 2024, 108251, ISSN 0738-3991.   
+[Publisher website] (https://www.sciencedirect.com/science/article/pii/S0738399124001186)
+
+- Rebekah Laidsaar-Powell, Sarah Giunta, Phyllis Butow, Rachael Keast, Bogda Koczwara, Judy Kay, Michael Jefford, Sandra Turner, Christobel Saunders, Penelope Schofield, Frances Boyle, Patsy Yates, Kate White, Annie Miller, Zoe Butt, Melanie Bonnaudet, & Ilona Juraskova.  
+[Development of Web-Based Education Modules to Improve Carer Engagement in Cancer Care: Design and User Experience Evaluation of the e-Triadic Oncology (eTRIO) Modules for Clinicians, Patients, and Carers]
+(https://mededu.jmir.org/2024/1/e50118)   
+JMIR Medical Education. 2024 Apr 17;10:e50118.   
+[Publisher website] (https://mededu.jmir.org/2024/1/e50118)  
+
+
 # 2023
 
-- Chen, YingAn, Judy Kay, and Soojeong Yoo.
-[Feedback and Open Learner Models in Popular Commercial VR Games: A Systematic Review.
-]
-(https://link.springer.com/chapter/10.1007/978-3-031-36272-9_44
-)   
-International Conference on Artificial Intelligence in Education. Springer, Cham, 2023.
-[Preprint](https://www.dropbox.com/scl/fi/zybe1rjvodoqw7omjx86g/2023-AIED-YingAn-Chen-VR-games-Review.pdf?rlkey=r1ol4xauktb3zh7fvy50ndkqr&dl=0
-) 
+- Chen, YingAn, Judy Kay, and Soojeong Yoo.   
+[Feedback and Open Learner Models in Popular Commercial VR Games: A Systematic Review.]   
+(https://link.springer.com/chapter/10.1007/978-3-031-36272-9_44)      
+International Conference on Artificial Intelligence in Education. Springer, Cham, 2023.   
+[Preprint](https://www.dropbox.com/scl/fi/zybe1rjvodoqw7omjx86g/2023-AIED-YingAn-Chen-VR-games-Review.pdf?rlkey=r1ol4xauktb3zh7fvy50ndkqr&dl=0) 
+[Preprint] (TODO)
+|
+[Publisher website] (https://link.springer.com/chapter/10.1007/978-3-031-36272-9_44)
 
 
 
