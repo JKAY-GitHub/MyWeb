@@ -326,6 +326,15 @@ In Proceedings of the 25th Conference on User Modeling, Adaptation and Personali
 [Preprint] (https://www.dropbox.com/s/x7o2g6zv45xuv36/2017_UMAP_Yoo_long-term-model.pdf?dl=0) |
 [Publisher website] (https://dl.acm.org/doi/abs/10.1145/3079628.3079679?casa_token=JbylOtxvszIAAAAA:yUSe-ZjTP5fStKp7syT20qz0c_9kABvB3MhCY2YOhjUxgK-_kGWiLnoSv5O6-j9aMDWH04fY5OUuiw)
 
+# 2016
+- Susan Bull and Judy Kay.   
+[SMILI😀: A Framework for Interfaces to Learning Data in Open Learner Models, Learning Analytics and Related Fields]
+(https://link.springer.com/article/10.1007/s40593-015-0090-8)   
+International Journal of Artificial Intelligence in Education, 26, pp.293-331.   
+[Preprint] (https://www.dropbox.com/scl/fi/wkbmxr4npt10bw1hydrhk/2016_IJAIED_Bull_SMILI.pdf?rlkey=c2bohlpdcso6hsimk05f907y9&dl=0) |
+[Publisher website](https://link.springer.com/article/10.1007/s40593-015-0090-8)
+
+
 # 2015
 
 - Ronny Cook, Cook, Ronny, Judy Kay, and Bob Kummerfeld.   
@@ -592,6 +601,16 @@ In International Conference on User Modeling, Adaptation, and Personalization, p
 [Preprint](https://www.dropbox.com/s/qikkwnzhfociuox/2010_UMAP_PersonisJ.pdf?dl=0) |
 [Publisher website](https://link.springer.com/chapter/10.1007/978-3-642-13470-8_12)
 
+# 2007
+
+- Susan Bull and Judy Kay.   
+[Student Models that Invite the Learner In: The SMILI Open Learner Modelling Framework]   
+(https://www.dropbox.com/scl/fi/jacpbpxyrfg6zi6o2p0es/2007_SMILI-Bull-Kay.pdf?rlkey=ahiakjayzstvq5lfc005qb2z9&dl=0)
+International Journal of Artificial Intelligence in Education, 17(2), pp.89-120.   
+[Preprint](https://www.dropbox.com/scl/fi/jacpbpxyrfg6zi6o2p0es/2007_SMILI-Bull-Kay.pdf?rlkey=ahiakjayzstvq5lfc005qb2z9&dl=0) |
+[Publisher website](https://content.iospress.com/articles/international-journal-of-artificial-intelligence-in-education/jai17-2-02)
+
+
 # 2006
 
 - Judy Kay.   
@@ -605,7 +624,7 @@ In International Conference on Adaptive Hypermedia and Adaptive Web-Based System
 [A scrutable adaptive hypertext.]
 (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)  
 In International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems, pp. 384-387. Springer, Berlin, Heidelberg, 2002.  
-[Publisher website - Open Access) (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)
+[Publisher website - Open Access] (https://link.springer.com/chapter/10.1007/3-540-47952-X_43)
 
 - Marek Czarkowski and Judy Kay.  
 [Giving learners a real sense of control over adaptivity, even if they are not quite ready for it yet.]
