@@ -23,7 +23,7 @@ preview = true
 
 # 2024
 
-- Hasindu Kariyawasam, Amashi Niwarthana, Alister Palmer, Judy Kay and Anusha Withana.   
+- Kariyawasam, Hasindu, Amashi Niwarthana, Alister Palmer, Judy Kay and Anusha Withana.   
 [Appropriate Incongruity Driven Human-AI Collaborative Tool to Assist Novices in Humorous Content Generation]
 (https://doi.org/10.1145/3640543.3645161)   
 In Proceedings of the 29th International Conference on Intelligent User Interfaces, pp. 650-659.    
@@ -31,18 +31,24 @@ In Proceedings of the 29th International Conference on Intelligent User Interfac
 [Publisher website] (https://doi.org/10.1145/3640543.3645161)
 
 
-- Rebekah Laidsaar-Powell, Sarah Giunta, Phyllis Butow, Sandra Turner, Daniel Costa, Christobel Saunders, Bogda Koczwara , Judy Kay, Michael Jefford, Penelope Schofield, Frances Boylee, Patsy Yates, Kate White, Puma Sundaresan, Suganthy Varadara & Ilona Juraskovaa.   
+- Laidsaar-Powell, Rebekah, Sarah Giunta, Phyllis Butow, Sandra Turner, Daniel Costa, Christobel Saunders, Bogda Koczwara , Judy Kay, Michael Jefford, Penelope Schofield, Frances Boylee, Patsy Yates, Kate White, Puma Sundaresan, Suganthy Varadara & Ilona Juraskovaa.   
 [An online intervention to improve oncology health professional self-efficacy in communicating with carers: Hybrid effectiveness-implementation evaluation of the eTRIO program]
 (https://www.sciencedirect.com/science/article/pii/S0738399124001186)    
 Patient Education and Counseling, Volume 124, 2024, 108251, ISSN 0738-3991.   
 [Publisher website] (https://www.sciencedirect.com/science/article/pii/S0738399124001186)
 
-- Rebekah Laidsaar-Powell, Sarah Giunta, Phyllis Butow, Rachael Keast, Bogda Koczwara, Judy Kay, Michael Jefford, Sandra Turner, Christobel Saunders, Penelope Schofield, Frances Boyle, Patsy Yates, Kate White, Annie Miller, Zoe Butt, Melanie Bonnaudet, & Ilona Juraskova.  
+- Laidsaar-Powell, Rebekah, Sarah Giunta, Phyllis Butow, Rachael Keast, Bogda Koczwara, Judy Kay, Michael Jefford, Sandra Turner, Christobel Saunders, Penelope Schofield, Frances Boyle, Patsy Yates, Kate White, Annie Miller, Zoe Butt, Melanie Bonnaudet, & Ilona Juraskova.  
 [Development of Web-Based Education Modules to Improve Carer Engagement in Cancer Care: Design and User Experience Evaluation of the e-Triadic Oncology (eTRIO) Modules for Clinicians, Patients, and Carers]
 (https://mededu.jmir.org/2024/1/e50118)   
 JMIR Medical Education. 2024 Apr 17;10:e50118.   
 [Publisher website] (https://mededu.jmir.org/2024/1/e50118)  
 
+- Yaqub, Waheeb, Judy Kay, and Micah Goldwater.   
+[Foundations for Enabling People to Recognise Misinformation in Social Media News based on Retracted Science.]
+(https://doi.org/10.1145/3637335)   
+Proceedings of the ACM on Human-Computer Interaction 8, no. CSCW1 (2024): 1-38.   
+[Preprint](https://www.dropbox.com/scl/fi/ub5a35caddni01crjlxe1/2024-Waheeb_CSCW_final_submission.pdf?rlkey=c58yvffd6dq1zpq1ns4ixakb1&dl=0) |
+[Publisher website] (https://doi.org/10.1145/3637335)
 
 # 2023
 
