@@ -329,11 +329,8 @@ How can performance feedback improve metacognitive self-regulation?: Designing d
 * Sammy Lo (Eng Thesis, 2008) KeepInTouch: supporting communication between the elderly and the pre-literate on a low-cost device
 * Veasna Hoy (Eng Thesis 2006) Spoken command interaction with KiT
 * Eric Wu (Eng Thesis 2006) Personal information management for electronic mail client
-* Ajay Brar (2004) Privacy and security in ubiquitous personalised applications
 * Abdur Sikder (MIT Thesis, 2003) Enhanced multiple choice questions for user modelling
 * V BalaKrishnan (MIT Thesis, 2003)
 * William Zhi Hua Wu (MIT Thesis, 2003) Concept mapping for user modelling
 * Fiona Mu-Hsing Lim (MIT Thesis, 1999) Impromptu, A personalised prediction system for classical music preferences
-* Royce Lithgo (1991) The Hypertext user modelling unix manual system
 * Tim Seabrook (Diploma CS 1991) The development of an expert system to aid in the diagnosis of imbalance disorders
-* Nicholas Oppen (1989) Excomm: A fault finding expert system
