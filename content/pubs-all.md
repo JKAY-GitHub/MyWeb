@@ -272,6 +272,14 @@ British Journal of Educational Technology, Sept 2019, 50(6) pp 2871-2884.
 [Preprint] (https://www.dropbox.com/s/se10ktr0pfmfwkw/2019_BJET_PUML.pdf?dl=0),
 [Publisher website] (https://doi.org/10.1111/bjet.12878) 
 
+- Judy Kay and Bob Kummerfeld,  
+[Am I meeting my lifelong life-wide goals? Towards answers from Scrutable Scaffolded Open Learner Models (SOLMs).]   
+(https://ceur-ws.org/Vol-2384/paper04.pdf)   
+In iTextbooks@ Workshop at AIED 2019 (pp. 38-43).   
+[Preprint] (https://www.dropbox.com/scl/fi/9l5wsj16oq76f73sxnitp/2019_w_AIEDI2019_SLLL.pdf?rlkey=ivarx7027wiubqa8lzbhsd7tx&dl=0) |
+[Publisher website] (https://ceur-ws.org/Vol-2384/paper04.pdf)
+
+
 - Brian Y. Lim, Judy Kay, Weilong Liu  
 [How Does a Nation Walk?: Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns]
 (https://doi.org/10.1145/3328928)  
