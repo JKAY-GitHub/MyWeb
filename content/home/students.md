@@ -40,10 +40,10 @@ I am also co-supervising:
 - Alan Yung - _Exploring support for oncologists with the data that drives decisions in diagnosis and treatments_ 
 (with: [Tim Shaw](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/tim.shaw.html))
 
+- Saaz Sahdra - _Understanding the person-specific predictors of athlete performance_
+(with: [Kalina Yacef](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kalina-yacef.html) and [Grant Duthie](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/sprint-research-centre/our-people/dr-grant-duthie))
 
-
-- [Jiakun Yu](http://sydney.edu.au/engineering/people/jiakun.yu.714.php) - _Soft and flexible smart sensor for monitoring long-term gastrointestinal activities_
-(with: [Anusha Withana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/anusha-withana.html))
-
+- Annie Yihong Yuan - _Enhancing Personalized Learning in Educational Recommender Systems: Integrating Deep Learning Models, Contextual, and Adaptive Profiling for Dynamic Recommendation_
+(with: [David Lowe](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/david-lowe.html) and [Kalina Yacef](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kalina-yacef.html))
 
 Also see [alumni]({{< ref "/students-all.md" >}}) and their theses.
