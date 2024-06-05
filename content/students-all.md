@@ -174,6 +174,8 @@ Ego: an expandable goal oriented tutoring system.
 
 ## Past Honours Students and Coursework Master's students
 
+* Leren Feng (2024) [Visual Language Re-enactment: An Eye-Tracker Study of the Viewer Experience of Videos with High-Hidelity Automatic Translations](https://www.dropbox.com/scl/fi/jf7716xbv0xmi4bwie0zw/2024-Leren-Feng.pdf?rlkey=4hk9whskp46ezxt79jetkiz98&dl=0)
+
 * Rachel Andersen (2023) [ EarlyAccess: An Educational System with Scaffolding for Accessible Design with Adee ]( https://www.dropbox.com/scl/fi/gt1fcu57y8fsid66kdjda/2023-Rachel_Andersen_Honours_Thesis.pdf?rlkey=t0e8rl8vp1rq1iz1yo8bc3h7i&dl=0)
 
 * Bronte Lee (2023) [ How-Did-I-Track? Sensemaking of Long-Term Physical Activity Data ]( https://www.dropbox.com/scl/fi/nexu1d3f6y2x4t7tu40dt/2023-Bronte-Lee-Honours-Thesis.pdf?rlkey=h67hxuo621k5tx773kbbgy81d&dl=0)
