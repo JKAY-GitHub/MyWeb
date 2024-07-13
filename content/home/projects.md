@@ -76,5 +76,4 @@ Scrutable is human-centred, describing what people do, -- by contrast, eXplainab
 
 All of these build on aspects of scutability and enabling people to harness their long term data to support learning.
 
-Honours thesis projects for Semester 1 2023: 
-Students will work as a team on different aspects of 
+Honours thesis projects for Semester 2 2024 will be in aspects of harnessing wearable data to help people understand their long term activity towards learning to be more active and less inactive.

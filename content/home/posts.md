@@ -37,6 +37,32 @@ count = 5
 
 +++
 
+* 5 - 9 Oct 2024,
+General Chair (with Vassilis Kostakos and Thuong Hoang), 
+[Ubicomp/ISWC 2024] 
+(https://www.ubicomp.org/ubicomp-iswc-2024/),
+Melbourne, Australia
+
+* 8-12 July, 2024, 
+[25th International Conference on Artificial Intelligence in Education (AIED 2024)]
+(https://aied2024.cesar.school/), Recife Brazil.
+
+* 1 Jul, 2024,
+Workshop Chair (with Owen Conlan)
+[Second Workshop on Context Representation in User Modeling (CRUM)]
+[(https://crum-workshop.github.io/index.html), at 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)]
+(https://www.um.org/umap2024/)
+
+* 8 Nov, 2023: Invited talk, How research in personalization and Open Learner Modeling can inform future assessments, @ Exploring Personalization in the Service of Equity, 
+[ETS (Educational Testing Service)](https://www.ets.org/), Princeton, New Jersey
+
+
+* 8-12 Oct 2023, 
+Technical Program Chair (with Silvia Santini and Edison Thomaz),
+[Ubicomp/ISWC 2023]
+(https://www.ubicomp.org/ubicomp-iswc-2023/), Cancún, Mexico.
+
+
 * 20 - 23 Nov 2022, 
 General Chair (with Craig Anslow) 
 [Interactive Surfaces and Spaces (ISS 2022)]

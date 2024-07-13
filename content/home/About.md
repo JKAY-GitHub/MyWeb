@@ -60,7 +60,10 @@ closely related to *self-regulation* in lifelong learning for important areas of
 My research is based on rich collaborations with researchers in diverse areas,
 such as nutrition, physical activity, psychology, medical informatics and ehealth. 
 
-Within Sydney University, I belong to Charles Perkins Centre Nodes,
+My research collaborations include:
+[Digital Health Collaborative Research Centre]
+(https://www.digitalhealthcrc.com/)
+and within Sydney University, I belong to Charles Perkins Centre Nodes,
 [Active Ageing]
 (https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/active-ageing.html),
 [Digital Health Information Network]
@@ -68,13 +71,7 @@ Within Sydney University, I belong to Charles Perkins Centre Nodes,
 [Health literacy chronic disease network]
 (https://sydney.edu.au/charles-perkins-centre/our-research/current-research/aboriginal-and-torres-strait-islander-health/health-literacy-chronic-disease-network.html) and
 [Wireless wellbeing and personalised health]
-(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/wireless-wellbeing-and-personalised-health.html) and the
-Advanced Technology for Education group
-[Centre for Research on Learning and Innovation]
-(https://sydney.edu.au/arts/our-research/centres-institutes-and-groups/centre-for-research-on-learning-and-innovation.html).
-Other collaborations include:
-[Digital Health Collaborative Research Centre]
-(https://www.digitalhealthcrc.com/).
+(https://sydney.edu.au/charles-perkins-centre/our-research/current-research/physical-activity-exercise-and-energy-expenditure/wireless-wellbeing-and-personalised-health.html).
 
 See also my [Sydney University page] 
 (http://sydney.edu.au/engineering/people/judy.kay.php) |
