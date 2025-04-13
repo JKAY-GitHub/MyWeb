@@ -20,44 +20,35 @@ weight = 40
 
 +++
 
-* Editor-in-chief (2012 -)
-IJAIED: International Journal of Artificial Intelligence in Education | 
-[Springer site](https://www.springer.com/journal/40593) |
-[IAIED](http://ijaied.org/journal/) | 
-[Submissions and reviews] (http://aied.edmgr.com/) | 
-[ERIC](http://eric.ed.gov/?q=International+Journal+of+Artificial+Intelligence+in+Education) |
-May 2020 Citescore 9.1, rank 9/1254 Education, 7/128 Computational Theory and Maths
+* Editor-in-chief (2012 - 2024):
+[IJAIED: International Journal of Artificial Intelligence in Education] 
+(https://www.springer.com/journal/40593) 
 
-* [Editor] 
-(https://dl.acm.org/journal/imwut/editorial-board)
-(2018 -)
+* Management Committee (2012 - 2023):
+[Artificial Intelligence in Education Society (IAIED)]
+(http://ijaied.org/about) |
+[President (2009 - 2011)]
+(https://iaied.org/news/3BX6Z3CvGbz68k7asedUTH)
+|
+[Facebook] (https://www.facebook.com/aiedsociety/) |
+[management] (https://sites.google.com/site/iaiedsmgmt/?pli=1)
+
+
+* Advisory Board (2023 - 2027): 
 [Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)]
 (https://imwut.acm.org/) |
-[PCS submissions]
-(https://new.precisionconference.com)
+[Editor] 
+(https://dl.acm.org/journal/imwut/editorial-board-alumni)
+(2018 - 2023)
 
 * Editorial Board (2000 - ):
 [User Modeling and User-Adapted Interaction: The Journal of Personalization Research (UMUAI)]
-(https://www.springer.com/computer/hci/journal/11257) |
-[submissions]
-(http://www.editorialmanager.com/umui)
-|
-[SCImago HCI]
-(https://www.scimagojr.com/journalrank.php?category=1709&year=2019)
+(https://www.springer.com/computer/hci/journal/11257) 
 
-* [Advisory Board] 
-(https://dl.acm.org/journal/tiis/editorial-board#advisory-board)
-(2019 - ):
+* Advisory Board (2019 - ):
 [ACM Transactions on Interactive Intelligent Systems (TiiS)]
-(http://tiis.acm.org/)
+(https://dl.acm.org/journal/tiis/editorial-board#advisory-board)
 
-
-
-* Management Committee (2012 -)
-[Artificial Intelligence in Education Society (IAIED)]
-(http://ijaied.org/about) |
-[Facebook] (https://www.facebook.com/aiedsociety/) |
-[management] (https://sites.google.com/site/iaiedsmgmt/?pli=1)
 
 
 * Advisory Board (2014 - )
